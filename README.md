@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ## Data setup
 
-1. We provide the data on the huggingface datasets at [TBD].
+1. We provide the data on the huggingface datasets at [https://huggingface.co/datasets/mint-medmax/medmax_data](https://huggingface.co/datasets/mint-medmax/medmax_data).
 2. The dataset is divided into two parts: (a) credential = 'YES' and (b) credential = 'NO'. In particular, we do not provide the `image_path` and `tokens` for `credential=YES` split.
 3. If you want to train a model on the `credential=NO` split, you can directly skip to the finetuning section.
 4. Use our instructions on the HF datasets' README to get the remaining image data in the `credential=YES` split. 
