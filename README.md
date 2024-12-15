@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Custom Inference
 
-[Daniel has to finish this]
+[Shufan -- show the demo script and steps to run it!]
 
 ## Evaluation
 
