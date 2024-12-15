@@ -673,7 +673,7 @@ class ChameleonInferenceModel:
     def decode_image(self, ids: torch.LongTensor) -> list[PIL.Image]:
         return self.token_manager.decode_image(ids)
 
-    def sft_tokenization(self, json_path: str, imagebpe = None) -> list[dict]:
+    def sft_tokenization(self, json_path: str) -> list[dict]:
         with open(json_path, 'r') as input_file:
             jsonl_input = [json.loads(line) for line in input_file]
 
@@ -682,12 +682,6 @@ class ChameleonInferenceModel:
             # print(i)
             text_tokens = self.token_manager.tokenize_text(entry['text'])
             image_tokens = self.token_manager.tokenize_image(PIL.Image.open(entry['image']))
-            if imagebpe != None:
-                start_token = image_tokens[0]
-                end_token = image_tokens[-1]
-                rest_image_tokens = image_tokens[1:-1]
-                bpe_image_tokens = imagebpe.encode(rest_image_tokens)
-                image_tokens = [start_token] + bpe_image_tokens + [end_token]
             entry['text_tokens'] = text_tokens 
             entry['image_tokens'] = image_tokens
             output_data.append(entry)

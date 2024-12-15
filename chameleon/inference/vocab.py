@@ -89,10 +89,9 @@ class VocabTranslation:
             )
             # e.g.: IMGIMGFDZ => FD => 53,
 
-        vocab_image_tokens = self._vocab.image_tokens[:8192]
         return {
             tok: int(remap(self._vocab.val2name[tok]))
-            for tok in vocab_image_tokens # the token starts with 'IMGIMG', value: [4: 8195]
+            for tok in self._vocab.image_tokens # the token starts with 'IMGIMG', value: [4: 8195]
         }
 
     @cached_property
