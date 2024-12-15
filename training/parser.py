@@ -34,6 +34,7 @@ def parse_args():
     parser.add_argument('--fp16', default=False, action='store_true', help='fp16')         
 
     parser.add_argument('--wandb', default=False, action='store_true', help='wandb or not')         
+    parser.add_argument('--wandb_entity', default="", type=str, help='wandb entity')         
     parser.add_argument('--name', default="", type=str, help="wandb experiment name")
 
     args = parser.parse_args()

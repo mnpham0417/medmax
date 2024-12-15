@@ -18,7 +18,7 @@ def main():
     if args.wandb:
         if local_rank == 0:
             wandb.init(
-                entity="mint-adobe",
+                entity=args.wandb_entity,
                 project="chlm",
                 config=args
             )
