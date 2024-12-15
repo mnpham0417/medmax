@@ -46,7 +46,7 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--tokenizer_file', xtype = str, help = 'tokenization file')
+    parser.add_argument('--tokenizer_file', type = str, help = 'tokenization file')
     parser.add_argument('--input_file', type = str, help = 'input file name')
     parser.add_argument('--output_file', type = str, help = 'output file name')
     args = parser.parse_args()

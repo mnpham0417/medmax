@@ -48,7 +48,7 @@ Specifically, we provide the instructions to get the `tokens` column once you ac
 1. Create a csv file with the absolute image paths in the `img_path` column.
 2. Download the MedMax [checkpoint](https://huggingface.co/mint-medmax/medmax_7b) that comes with the VQGAN checkpoint. 
 3. Run the following command:
-```
+```python
     CUDA_VISIBLE_DEVICES=0,1 torchrun -m --nproc-per-node=2 src.image_tokenization --input <path to a csv file> --output <path to save folder> --ckpt <path to medmax folder>
 ```
 4. The code will generate `parquet` files with an additional column of `img_tokens`. 
@@ -58,7 +58,7 @@ Specifically, we provide the instructions to get the `tokens` column once you ac
 ## Tokenizing Multimodal Sequence
 
 1. Create a jsonl file with the following elements:
-```
+```python
     text: the multimodal text with <image> placeholder (this is present in our original dataset)
     image_path: path to the image
     image_tokens: image tokens from the VQGAN tokenizer (as described in the previous section)
@@ -66,7 +66,7 @@ Specifically, we provide the instructions to get the `tokens` column once you ac
     task: (this is present in our original dataset)
 ```
 2. Run the following tokenization code:
-```
+```python
     python src/tokenization.py --input_file <input jsonl file> --tokenizer_file <tokenizer> --output_file <output jsonl filename>
 ```
 3. You should use the `text_tokenized_modified.json` on huggingface - [https://huggingface.co/mint-medmax/medmax_7b/blob/main/tokenizer/text_tokenizer_modified.json](https://huggingface.co/mint-medmax/medmax_7b/blob/main/tokenizer/text_tokenizer_modified.json).
@@ -77,10 +77,22 @@ Specifically, we provide the instructions to get the `tokens` column once you ac
 1. Here, the users can finetune the [base model](https://huggingface.co/mint-medmax/anole_7b_hf) on the Medmax training data. Specifically, we will finetune the Anole model using HF codebase and then convert it to the Chameleon supported format to allow evaluations. 
 2. Please download the base model in your local machine and also download the medmax training data. Remove the instances where `credential=yes` or get the tokens for the same using the instructions above. 
 3. Eventually, we will just use the `tokens` element in each row of the jsonl data.
-4. 
-
-**Note:** During finetuning, there might be an error due to versioning of the transformers and deepspeed. To fix this, we comment this line that was throwing that error because it was not crucial. 
+4. Run the following command for launching multi-gpu finetuning with Low-rank adaptation:
+```python
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 -m training.train --train_data <train.jsonl> --val_data <val.jsonl> --ckpt <path to Anole-7b-v0.1-hf> --ds training/ds_config.json --output_dir <path to output dir> --epoch 3 --bs 1 --save_strategy steps --warmup_ratio 0.1 --name <exp name> --lr 1e-4 --bf16 --wandb 
 ```
+5. At the end of the finetuning, you will have the trained LoRA adapters. Now, we will want to merge them to the original model to get the merged model. Run the following code:
+```python
+    CUDA_VISIBLE_DEVICES=1 python -m src.load_lora_and_merge --ckpt_path <path to output dir/checkpoint-number> --output_dir <path to the output dir for the merged model> --base_path <path to the Anole-7b-1.0-hf model>
+```
+6. Now, we have to convert the merged model to the chameleon's format so that we can use the original chameleon's [code](https://github.com/facebookresearch/chameleon) for inference. Run the following command:
+```
+    CUDA_VISIBLE_DEVICES=1 python -m src.bin_to_pth --trained_ckpt <path to the merged checkpoint> --original_ckpt <original Anole model in the chameleon's format> --new_ckpt <save folder with the chameleon's format>
+```
+7. Original Anole model in the chameleon's format is present in [https://huggingface.co/GAIR/Anole-7b-v0.1/tree/main](https://huggingface.co/GAIR/Anole-7b-v0.1/tree/main).
+
+**Note:** During finetuning, there might be an error due to versioning of the transformers and deepspeed. To fix this, we comment this line that was throwing the error. 
+```python
         # if compare_versions("transformers", "<", "4.33"):
             # from transformers.deepspeed import HfDeepSpeedConfig, unset_hf_deepspeed_config
         # else:
