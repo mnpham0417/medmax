@@ -1,4 +1,4 @@
-# medmax
+# Medmax
 MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants
 
 
