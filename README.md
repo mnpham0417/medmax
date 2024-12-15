@@ -29,8 +29,9 @@ pip install -r requirements.txt
 
 ## Custom Inference
 
+First, install gradio through `pip install gradio==5.6.0`
 
-Use the following command to launch gradio demo
+Then, Use the following command to launch gradio demo
 
 ```
 mkdir -p .gradio
