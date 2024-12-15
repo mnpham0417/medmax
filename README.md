@@ -29,7 +29,14 @@ pip install -r requirements.txt
 
 ## Custom Inference
 
-[Shufan -- show the demo script and steps to run it!]
+
+Use the following command to launch gradio demo
+
+```
+mkdir -p .gradio
+GRADIO_SERVER_NAME=0.0.0.0 GRADIO_TEMP_DIR=.gradio python demo.py -c <your checkpoint folder>
+```
+
 
 ## Evaluation
 
