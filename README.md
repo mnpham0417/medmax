@@ -79,7 +79,7 @@ Specifically, we provide the instructions to get the `tokens` column once you ac
 3. Eventually, we will just use the `tokens` element in each row of the jsonl data.
 4. Run the following command for launching multi-gpu finetuning with Low-rank adaptation:
 ```python
-CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 -m training.train --train_data <train.jsonl> --val_data <val.jsonl> --ckpt <path to Anole-7b-v0.1-hf> --ds training/ds_config.json --output_dir <path to output dir> --epoch 3 --bs 1 --save_strategy steps --warmup_ratio 0.1 --name <exp name> --lr 1e-4 --bf16 --wandb 
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 -m training.train --train_data <train.jsonl> --val_data <val.jsonl> --ckpt <path to Anole-7b-v0.1-hf> --ds training/ds_config.json --output_dir <path to output dir> --epoch 3 --bs 1 --save_strategy steps --warmup_ratio 0.1 --name <exp name> --lr 1e-4 --bf16 --wandb --wandb_entity <name of wandb entity> 
 ```
 5. At the end of the finetuning, you will have the trained LoRA adapters. Now, we will want to merge them to the original model to get the merged model. Run the following code:
 ```python
