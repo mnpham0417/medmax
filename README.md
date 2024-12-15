@@ -27,6 +27,10 @@ pip install -r requirements.txt
 
 - The above command will install transformers too. However, we will use our custom transformers present in this repo. Hence, `pip uninstall transformers`.
 
+## Custom Inference
+
+[Daniel has to finish this]
+
 ## Evaluation
 
 [Daniel has to finish this]
@@ -58,16 +62,22 @@ Specifically, we provide the instructions to get the `tokens` column once you ac
     text: the multimodal text with <image> placeholder (this is present in our original dataset)
     image_path: path to the image
     image_tokens: image tokens from the VQGAN tokenizer (as described in the previous section)
+    source: (this is present in our original dataset)
+    task: (this is present in our original dataset)
 ```
 2. Run the following tokenization code:
 ```
     python src/tokenization.py --input_file <input jsonl file> --tokenizer_file <tokenizer> --output_file <output jsonl filename>
 ```
-3. You should use the `text_tokenized_modified.json` on huggingface - [https://huggingface.co/mint-medmax/medmax_7b/blob/main/text_tokenizer_modified.json](https://huggingface.co/mint-medmax/medmax_7b/blob/main/text_tokenizer_modified.json)
+3. You should use the `text_tokenized_modified.json` on huggingface - [https://huggingface.co/mint-medmax/medmax_7b/blob/main/tokenizer/text_tokenizer_modified.json](https://huggingface.co/mint-medmax/medmax_7b/blob/main/tokenizer/text_tokenizer_modified.json).
 4. In our code, we add an offset of 4 to each element of the image tokens to map them to the corresponding vocab ID in the MedMax tokenizer. For example, a VQGAN token ID of 5678 corresponds to a MedMax token ID of 5682. Consequently, the updated tokens will reflect this mapping.
- 
 
 ## Finetuning
+
+1. Here, the users can finetune the [base model](https://huggingface.co/mint-medmax/anole_7b_hf) on the Medmax training data. Specifically, we will finetune the Anole model using HF codebase and then convert it to the Chameleon supported format to allow evaluations. 
+2. Please download the base model in your local machine and also download the medmax training data. Remove the instances where `credential=yes` or get the tokens for the same using the instructions above. 
+3. Eventually, we will just use the `tokens` element in each row of the jsonl data.
+4. 
 
 **Note:** During finetuning, there might be an error due to versioning of the transformers and deepspeed. To fix this, we comment this line that was throwing that error because it was not crucial. 
 ```

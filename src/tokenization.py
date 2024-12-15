@@ -1,16 +1,7 @@
 import json
-import random
 import argparse
-import pandas as pd
 from tqdm import tqdm
-from constants import DOWNSTREAM_VQA
 from tokenizers import Tokenizer
-
-def add_data(out_file, instances):
-    with open(out_file, 'a') as f:
-        for instance in instances:
-            f.write(json.dumps(instance))
-            f.write("\n")
 
 def offset_image_tokens(tokens):
     ## Chameleon image tokens range from 4-8195 instead of 0-8191
@@ -28,7 +19,7 @@ def main(args):
 
     input_file = args.input_file
     with open(input_file, 'r') as f:
-        input_data = list(f) # input_data should have: text, image_path, image_tokens
+        input_data = list(f) 
 
     all_data = []
     for instance in tqdm(input_data):
@@ -49,10 +40,9 @@ def main(args):
         all_data.append(instance)
     
     with open(args.output_file, 'a') as f:
-        for instance in all_data:
+        for instance in tqdm(all_data):
             f.write(json.dumps(instance))
             f.write("\n")
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
