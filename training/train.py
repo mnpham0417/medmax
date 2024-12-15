@@ -6,7 +6,6 @@ import deepspeed
 import argparse
 
 from transformers import ChameleonForConditionalGeneration, Trainer, TrainingArguments
-from transformers import LlamaTokenizerFast
 from peft import LoraConfig, get_peft_model
 from .data import TokenizedDataset, collate_fn, create_new_tokens
 from .parser import parse_args
