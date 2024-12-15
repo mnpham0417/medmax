@@ -53,7 +53,19 @@ Specifically, we provide the instructions to get the `tokens` column once you ac
 
 ## Tokenizing Multimodal Sequence
 
-1. Please add an offset of 4 to each element of the image tokens to map them to the corresponding vocab ID in the MedMax tokenizer. For example, a VQGAN token ID of 5678 corresponds to a MedMax token ID of 5682. Consequently, the updated tokens will reflect this mapping.
+1. Create a jsonl file with the following elements:
+```
+    text: the multimodal text with <image> placeholder (this is present in our original dataset)
+    image_path: path to the image
+    image_tokens: image tokens from the VQGAN tokenizer (as described in the previous section)
+```
+2. Run the following tokenization code:
+```
+    python src/tokenization.py --input_file <input jsonl file> --tokenizer_file <tokenizer> --output_file <output jsonl filename>
+```
+3. You should use the `text_tokenized_modified.json` on huggingface - [https://huggingface.co/mint-medmax/medmax_7b/blob/main/text_tokenizer_modified.json](https://huggingface.co/mint-medmax/medmax_7b/blob/main/text_tokenizer_modified.json)
+4. In our code, we add an offset of 4 to each element of the image tokens to map them to the corresponding vocab ID in the MedMax tokenizer. For example, a VQGAN token ID of 5678 corresponds to a MedMax token ID of 5682. Consequently, the updated tokens will reflect this mapping.
+ 
 
 ## Finetuning
 
