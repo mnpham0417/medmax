@@ -36,10 +36,10 @@ def main(args):
 def parse_arguments() -> argparse.Namespace:
     """Parse command line arguments."""
     parser = argparse.ArgumentParser()
-    parser.add_argument("--ckpt", default='/localhome/data/ckpts/Anole-7b-v0.1', type=str, help="Path to checkpoint")
+    parser.add_argument("--ckpt", default="medmax_7b", type=str, help="Path to checkpoint")
     parser.add_argument("--save_dir", default="evaluation/outputs", type=str, help="The directory to save model outputs, eval logging, and results.")
-    parser.add_argument("--save_name", default=None, type=str, help="The name of the saved file.")
-    parser.add_argument("--eval_data_dir", default="/localhome/data/datasets/medmax_eval_data", type=str, help="The directory to save the logs.")
+    parser.add_argument("--save_name", default="eval_results", type=str, help="The name of the saved file.")
+    parser.add_argument("--eval_data_dir", default="medmax_eval_data", type=str, help="The directory to save the logs.")
     parser.add_argument("--prompt_processor", default="default", type=str, help="How to prompt the model for the evaluation")
     
     args: argparse.Namespace = parser.parse_args()
