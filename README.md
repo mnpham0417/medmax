@@ -107,3 +107,8 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 -m training.train --tra
         from transformers.integrations import HfDeepSpeedConfig, unset_hf_deepspeed_config
 ```
 in `"/opt/conda/envs/medmax/lib/python3.10/site-packages/accelerate/utils/dataclasses.py", line 1295`.
+
+
+## VQGAN Training
+
+See [Instructions](vqgan/readme.MD)
