@@ -40,9 +40,6 @@ GRADIO_SERVER_NAME=0.0.0.0 GRADIO_TEMP_DIR=.gradio python demo.py -c <your check
 
 ## Evaluation
 
-<<<<<<< HEAD
-[Daniel has to finish this]
-=======
 #### Setup
 Request access to the MedMax Evaluation Data at https://huggingface.co/datasets/mint-medmax/medmax_eval_data.
 
@@ -76,7 +73,6 @@ To run the evaluation suite for Chameleon 7B run
 ```
 CUDA_VISIBLE_DEVICES=0 python -m evaluation.eval --ckpt <ckpt_dir>  --prompt_processor chameleon --eval_data_dir <eval_data_dir> --save_dir <output_location> --save_name <save_file_name>
 ```
->>>>>>> origin/main
 
 
 ## Data setup
