@@ -2,7 +2,11 @@
 MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants
 
 
+<<<<<<< HEAD
+[[Webpage](https://mint-medmax.github.io/)] [[Paper]()] [[Train Dataset 🤗](https://huggingface.co/datasets/mint-medmax/medmax_data)] [[Eval Dataset 🤗]()] [[Model 🤗](https://huggingface.co/mint-medmax/medmax_7b)] [[Demo 🤗]](https://huggingface.co/spaces/mint-medmax/medmax-demo-v1.0)
+=======
 [[Webpage](https://mint-medmax.github.io/)] [[Paper](https://arxiv.org/abs/2412.12661)] [[Train Dataset 🤗](https://huggingface.co/datasets/mint-medmax/medmax_data)] [[Eval Dataset 🤗](https://huggingface.co/datasets/mint-medmax/medmax_eval_data)] [[Model 🤗](https://huggingface.co/mint-medmax/medmax_7b)] [[Demo 🤗]](https://huggingface.co/spaces/mint-medmax/medmax-demo-v1.0)
+>>>>>>> origin/main
 
 <p align="center">
     <img src="static/logo.png" width="30%"> <br>.
@@ -41,6 +45,9 @@ GRADIO_SERVER_NAME=0.0.0.0 GRADIO_TEMP_DIR=.gradio python demo.py -c <your check
 
 ## Evaluation
 
+<<<<<<< HEAD
+[Daniel has to finish this]
+=======
 #### Setup
 Request access to the MedMax Evaluation Data at https://huggingface.co/datasets/mint-medmax/medmax_eval_data.
 
@@ -74,6 +81,7 @@ To run the evaluation suite for Chameleon 7B run
 ```
 CUDA_VISIBLE_DEVICES=0 python -m evaluation.eval --ckpt <ckpt_dir>  --prompt_processor chameleon --eval_data_dir <eval_data_dir> --save_dir <output_location> --save_name <save_file_name>
 ```
+>>>>>>> origin/main
 
 
 ## Data setup
@@ -139,6 +147,11 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 -m training.train --tra
         from transformers.integrations import HfDeepSpeedConfig, unset_hf_deepspeed_config
 ```
 in `"/opt/conda/envs/medmax/lib/python3.10/site-packages/accelerate/utils/dataclasses.py", line 1295`.
+
+
+## VQGAN Training
+
+See [Instructions](vqgan/readme.MD)
 
 ## Converting from Chameleon Format to Huggingface Format
 
