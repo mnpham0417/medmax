@@ -142,7 +142,7 @@ in `"/opt/conda/envs/medmax/lib/python3.10/site-packages/accelerate/utils/datacl
 
 ## Converting from Chameleon Format to Huggingface Format
 
-1. We provide the Huggingface checkpoint of MedMax-7B at [].
+1. We provide the Huggingface checkpoint of MedMax-7B at [https://huggingface.co/mint-medmax/medmax_7b_hf](https://huggingface.co/mint-medmax/medmax_7b_hf).
 2. This checkpoint was obtained after running the following command on the MedMax checkpoint:
 ```python
     CUDA_VISIBLE_DEVICES=0 python -m transformers.models.chameleon.convert_chameleon_weights_to_hf --input_dir medmax_7b --model_size 7B --output_dir medmax_7b_hf
