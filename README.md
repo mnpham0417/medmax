@@ -149,10 +149,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 -m training.train --tra
 in `"/opt/conda/envs/medmax/lib/python3.10/site-packages/accelerate/utils/dataclasses.py", line 1295`.
 
 
-## VQGAN Training
-
-See [Instructions](vqgan/readme.MD)
-
 ## Converting from Chameleon Format to Huggingface Format
 
 1. We provide the Huggingface checkpoint of MedMax-7B at [https://huggingface.co/mint-medmax/medmax_7b_hf](https://huggingface.co/mint-medmax/medmax_7b_hf).
@@ -163,8 +159,13 @@ See [Instructions](vqgan/readme.MD)
 3. You can use the above command to convert your own finetuned checkpoints to the HF checkpoint.
 4. The HF checkpoint can used with the HF's Chameleon inference code: [https://huggingface.co/docs/transformers/main/en/model_doc/chameleon](https://huggingface.co/docs/transformers/main/en/model_doc/chameleon).
 
+## VQGAN Training
+
+See [Instructions](vqgan/readme.MD)
+
 ## Acknowledgements
 
 1. Anole: https://github.com/GAIR-NLP/anole (Model and Finetuning support)
 2. Chameleon: https://github.com/facebookresearch/chameleon (Inference support)
 3. HF Transformers: https://github.com/huggingface/transformers (Framework support)
+4. VQGAN: https://github.com/CompVis/taming-transformers (VQGAN training support)
