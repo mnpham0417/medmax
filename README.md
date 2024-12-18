@@ -2,7 +2,7 @@
 MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants
 
 
-[[Webpage](https://mint-medmax.github.io/)] [[Paper]()] [[Train Dataset 🤗](https://huggingface.co/datasets/mint-medmax/medmax_data)] [[Eval Dataset 🤗](https://huggingface.co/datasets/mint-medmax/medmax_eval_data)] [[Model 🤗](https://huggingface.co/mint-medmax/medmax_7b)] [[Demo 🤗]](https://huggingface.co/spaces/mint-medmax/medmax-demo-v1.0)
+[[Webpage](https://mint-medmax.github.io/)] [[Paper](https://arxiv.org/abs/2412.12661)] [[Train Dataset 🤗](https://huggingface.co/datasets/mint-medmax/medmax_data)] [[Eval Dataset 🤗](https://huggingface.co/datasets/mint-medmax/medmax_eval_data)] [[Model 🤗](https://huggingface.co/mint-medmax/medmax_7b)] [[Demo 🤗]](https://huggingface.co/spaces/mint-medmax/medmax-demo-v1.0)
 
 <p align="center">
     <img src="static/logo.png" width="30%"> <br>.
