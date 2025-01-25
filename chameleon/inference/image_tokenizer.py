@@ -91,6 +91,10 @@ class ImageTokenizer:
         _, _, [_, _, img_toks] = self._vq_model.encode(vqgan_input)
         return img_toks
 
+    def image_token_from_tensor(self, vqgan_input: torch.Tensor) -> list[int]:
+        _, _, [_, _, img_toks] = self._vq_model.encode(vqgan_input)
+        return img_toks
+
     def _pil_from_chw_tensor(self, chw_tensor: torch.Tensor) -> PIL.Image:
 
         # Ensure detachment and move tensor to CPU.
