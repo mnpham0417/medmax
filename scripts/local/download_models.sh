@@ -1,0 +1,2 @@
+huggingface-cli download --resume-download "mint-medmax/anole_7b_hf" --local-dir "./checkpoints/anole_7b_hf" --local-dir-use-symlinks False
+huggingface-cli download --resume-download "GAIR/Anole-7b-v0.1" --local-dir "./checkpoints/Anole-7b-v0.1" --local-dir-use-symlinks False

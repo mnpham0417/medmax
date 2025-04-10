@@ -16,7 +16,7 @@ def main(args):
     tokenizer.pad = 1
     tokenizer.eos = 2
     tokenizer.image_id = 8711
-
+    
     input_file = args.input_file
     with open(input_file, 'r') as f:
         input_data = list(f) 
@@ -39,7 +39,7 @@ def main(args):
         instance['tokens'] = new_tokens
         all_data.append(instance)
     
-    with open(args.output_file, 'a') as f:
+    with open(args.output_file, 'w') as f:
         for instance in tqdm(all_data):
             f.write(json.dumps(instance))
             f.write("\n")

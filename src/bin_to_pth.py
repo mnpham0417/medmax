@@ -101,6 +101,7 @@ def bin_to_pth(
 
     for key, value in converted_state_dict.items():
         converted_state_dict[key] = value.bfloat16()
+        # converted_state_dict[key] = value.float()
     converted_state_dict["rope.freqs"] = None
     return converted_state_dict
 

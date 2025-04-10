@@ -1,0 +1,3 @@
+CUDA_VISIBLE_DEVICES=0 python -m src.bin_to_pth --trained_ckpt /scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/checkpoints/dog_lora_merged_image_only_with_boi_eoi_tv-0.7  \
+    --original_ckpt /scratch/mp5847/workspace/mixed-modal-erasure/src/anole/checkpoints/Anole-7b-v0.1 \
+    --new_ckpt /scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/checkpoints/dog_lora_merged_image_only_with_boi_eoi_tv-0.7_pth

@@ -550,31 +550,80 @@ class ChameleonInferenceModel:
         )
         self.vocab = self.token_manager.vocab
 
+    #     world_size = 1
+    #     if isinstance(model, str):
+    #         world_size = loader.detect_shard_count(model)
+    #     self.dctx = _DistributedContext.make(distributed_mode, world_size)
+
+    #     init_method = f"tcp://0.0.0.0:{random_unused_port()}"
+    #     self.workers = [
+    #         self.dctx.worker_launcher(
+    #             target=_worker_impl,
+    #             args=(init_method, model, world_size, i, self.vocab, self.dctx),
+    #             daemon=True,
+    #         )
+    #         for i in range(world_size)
+    #     ]
+    #     for w in self.workers:
+    #         w.start()
+    #     self.dctx.ready_barrier.wait()
+
+    # def __del__(self):
+    #     try:
+    #         with self.dctx.active_key_lock:
+    #             self.dctx.active_key.clear()
+    #         self.dctx.req_q.put([None, None, None, True])
+    #         for w in self.workers:
+    #             w.join()
+    #     except FileNotFoundError:
+    #         pass
+    
         world_size = 1
         if isinstance(model, str):
             world_size = loader.detect_shard_count(model)
         self.dctx = _DistributedContext.make(distributed_mode, world_size)
 
         init_method = f"tcp://0.0.0.0:{random_unused_port()}"
+
+        # self.workers = [
+        #     self.dctx.worker_launcher(
+        #         target=_worker_impl,
+        #         args=(init_method, model, world_size, i, self.vocab, self.dctx),
+        #         daemon=True,
+        #     )
+        #     for i in range(world_size)
+        # ]
         self.workers = [
             self.dctx.worker_launcher(
                 target=_worker_impl,
-                args=(init_method, model, world_size, i, self.vocab, self.dctx),
+                args=(init_method, model, world_size, 0, self.vocab, self.dctx),
                 daemon=True,
             )
-            for i in range(world_size)
         ]
+  
         for w in self.workers:
             w.start()
         self.dctx.ready_barrier.wait()
 
+    # def __del__(self):
+        # try:
+        #     with self.dctx.active_key_lock:
+        #         self.dctx.active_key.clear()
+        #     self.dctx.req_q.put([None, None, None, True])
+        #     for w in self.workers:
+        #         w.join()
+        # except FileNotFoundError:
+        #     pass
     def __del__(self):
         try:
-            with self.dctx.active_key_lock:
-                self.dctx.active_key.clear()
-            self.dctx.req_q.put([None, None, None, True])
-            for w in self.workers:
-                w.join()
+            if self.dctx:
+                with self.dctx.active_key_lock:
+                    self.dctx.active_key.clear()
+                self.dctx.req_q.put([None, None, None, True])
+                for w in self.workers:
+                    w.join()
+        except AttributeError:
+            pass 
         except FileNotFoundError:
             pass
 

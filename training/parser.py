@@ -8,7 +8,7 @@ def parse_args():
     parser.add_argument('--val_data', default="", type=str, help="path to tokenized val data")
 
     parser.add_argument('--ckpt', required=True, type=str, help="finetuning checkpoint")
-    parser.add_argument('--ds', required=True, type=str, help="deepspeed config")
+    parser.add_argument('--ds', required=False, type=str, help="deepspeed config")
     parser.add_argument('--output_dir', required=True, type=str, help="output directory")
 
     parser.add_argument('--resume', default=False, action='store_true', help='resume from the last checkpoint')         
@@ -16,7 +16,9 @@ def parse_args():
     parser.add_argument('--lora', default=False, action='store_true', help='lora finetuning')         
     parser.add_argument('--lora_r', type=int, default=16, help="lora r")         
     parser.add_argument('--lora_alpha', type=int, default=16, help="lora alpha")         
-    parser.add_argument('--lora_dropout', type=float, default=0.05, help="lora dropout")         
+    parser.add_argument('--lora_dropout', type=float, default=0.05, help="lora dropout")
+    
+    parser.add_argument('--trainable_layers', type=str, default="self_attn", choices=["self_attn", "mlp", "lm_head", "whole_model"], help="if lora is not used, which layers to train")        
 
     parser.add_argument('--lr', type=float, default=1e-5, help="learning rate")         
     parser.add_argument('--epoch', type=int, default=1, help="num of epochs")         
@@ -36,6 +38,12 @@ def parse_args():
     parser.add_argument('--wandb', default=False, action='store_true', help='wandb or not')         
     parser.add_argument('--wandb_entity', default="", type=str, help='wandb entity')         
     parser.add_argument('--name', default="", type=str, help="wandb experiment name")
+    parser.add_argument('--wandb_disable_ssl', default=False, action='store_true', 
+                        help='disable SSL verification for wandb (use with caution)')
+    parser.add_argument('--wandb_offline', default=False, action='store_true',
+                        help='use wandb in offline mode (logs saved locally)')
+    
+    parser.add_argument('--extend_vocab', default=False, action='store_true', help='extend vocab')
 
     args = parser.parse_args()
     return args
