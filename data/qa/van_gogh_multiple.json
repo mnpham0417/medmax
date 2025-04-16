@@ -1,0 +1,1222 @@
+[
+    {
+        "question": "Where was Van Gogh born?",
+        "choices": [
+            "Amsterdam, Netherlands",
+            "Brussels, Belgium",
+            "Zundert, Netherlands",
+            "Paris, France"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In which year was Van Gogh born?",
+        "choices": [
+            "1853",
+            "1863",
+            "1873",
+            "1843"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "On which exact date was Van Gogh born?",
+        "choices": [
+            "June 1, 1853",
+            "March 30, 1853",
+            "April 15, 1851",
+            "January 19, 1850"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In which country did Van Gogh spend most of his early life?",
+        "choices": [
+            "England",
+            "Belgium",
+            "Netherlands",
+            "France"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What was the name of Van Gogh’s younger brother, who was also his closest confidant?",
+        "choices": [
+            "Theo",
+            "Willem",
+            "Paul",
+            "Henri"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of these paintings is considered Van Gogh’s first major work?",
+        "choices": [
+            "The Potato Eaters",
+            "Starry Night",
+            "Wheatfield with Crows",
+            "The Yellow House"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which art movement is Van Gogh most commonly associated with?",
+        "choices": [
+            "Impressionism",
+            "Post-Impressionism",
+            "Realism",
+            "Baroque"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In which European city did Van Gogh briefly work for the art dealers Goupil & Cie?",
+        "choices": [
+            "Paris, France",
+            "London, England",
+            "The Hague, Netherlands",
+            "Brussels, Belgium"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of these is NOT a painting by Van Gogh?",
+        "choices": [
+            "The Scream",
+            "Irises",
+            "Café Terrace at Night",
+            "Almond Blossom"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What was the main subject of Van Gogh’s famous 'Sunflowers' series?",
+        "choices": [
+            "Self-portraits",
+            "Flower arrangements in a vase",
+            "Countryside landscapes",
+            "Parisian street scenes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In which Dutch town did Van Gogh live and work as a preacher for a short time?",
+        "choices": [
+            "Rotterdam",
+            "Nuenen",
+            "Etten",
+            "Zwolle"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How many paintings did Van Gogh approximately create during his lifetime?",
+        "choices": [
+            "Around 50",
+            "Around 900",
+            "Around 2000",
+            "Around 400"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which painting is widely considered to be Van Gogh’s final work?",
+        "choices": [
+            "The Potato Eaters",
+            "Self-Portrait with Bandaged Ear",
+            "Wheatfield with Crows",
+            "The Night Café"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In which French city did Van Gogh share the famous 'Yellow House' with Paul Gauguin?",
+        "choices": [
+            "Paris",
+            "Arles",
+            "Auvers-sur-Oise",
+            "Saint-Rémy-de-Provence"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which self-inflicted injury is famously associated with Van Gogh?",
+        "choices": [
+            "He cut off a portion of his left ear.",
+            "He broke his own finger.",
+            "He blinded one eye.",
+            "He carved his initials into his arm."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which museum houses the largest collection of Van Gogh’s works?",
+        "choices": [
+            "Van Gogh Museum in Amsterdam",
+            "Musée d’Orsay in Paris",
+            "Louvre Museum in Paris",
+            "Rijksmuseum in Amsterdam"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which famous painting did Van Gogh create during his stay in the asylum in Saint-Rémy-de-Provence?",
+        "choices": [
+            "Starry Night",
+            "The Potato Eaters",
+            "Sunflowers",
+            "Portrait of Dr. Gachet"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which condition is Van Gogh widely thought to have suffered from?",
+        "choices": [
+            "Bipolar disorder",
+            "Epilepsy",
+            "Schizophrenia",
+            "Severe depression (and possibly other issues)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which language did Van Gogh learn while working in England?",
+        "choices": [
+            "French",
+            "German",
+            "English",
+            "Italian"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In which year did Van Gogh move to Paris to live with his brother Theo?",
+        "choices": [
+            "1882",
+            "1886",
+            "1889",
+            "1879"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following statements is true about Van Gogh’s early career path?",
+        "choices": [
+            "He initially planned to become a pastor.",
+            "He was famous from the beginning.",
+            "He was wealthy and funded his own art.",
+            "He never received any art training."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which Post-Impressionist artist had a tumultuous friendship with Van Gogh in Arles?",
+        "choices": [
+            "Claude Monet",
+            "Paul Cézanne",
+            "Paul Gauguin",
+            "Georges Seurat"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Where did Van Gogh paint 'The Bedroom' (also known as 'Bedroom in Arles')?",
+        "choices": [
+            "Paris, France",
+            "Saint-Rémy-de-Provence, France",
+            "Arles, France",
+            "Nuenen, Netherlands"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these is a famous Van Gogh self-portrait that includes his injury?",
+        "choices": [
+            "Self-Portrait with Bandaged Ear",
+            "Self-Portrait in the Blue Period",
+            "Self-Portrait with a Straw Hat",
+            "Self-Portrait at the Easel"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What was Van Gogh’s preferred medium for the majority of his artworks?",
+        "choices": [
+            "Tempera on canvas",
+            "Pastel on paper",
+            "Oil on canvas",
+            "Watercolor"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these paintings was completed during Van Gogh’s Arles period?",
+        "choices": [
+            "Starry Night Over the Rhône",
+            "The Potato Eaters",
+            "Head of a Peasant Woman",
+            "Skull of a Skeleton with Burning Cigarette"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Who provided Van Gogh with financial support throughout much of his career?",
+        "choices": [
+            "His parents",
+            "His friend Émile Bernard",
+            "The French government",
+            "His brother Theo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which motif frequently appears in Van Gogh’s paintings?",
+        "choices": [
+            "Royal portraits",
+            "Night skies and stars",
+            "Renaissance religious themes",
+            "Marine seascapes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How long did Van Gogh’s active painting career last, approximately?",
+        "choices": [
+            "10 years",
+            "25 years",
+            "40 years",
+            "5 years"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which French city did Van Gogh depict in the painting 'Café Terrace at Night'?",
+        "choices": [
+            "Arles",
+            "Montmartre (Paris)",
+            "Auvers-sur-Oise",
+            "Lyon"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of these is TRUE about Van Gogh’s relationship with his brother Theo?",
+        "choices": [
+            "They rarely spoke to each other.",
+            "Theo was older by over 10 years.",
+            "They exchanged hundreds of letters.",
+            "They only met once in life."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following influenced Van Gogh’s artwork significantly?",
+        "choices": [
+            "Japanese woodblock prints",
+            "Egyptian hieroglyphics",
+            "Greek sculpture",
+            "Medieval tapestries"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What job did Van Gogh hold before fully dedicating himself to art?",
+        "choices": [
+            "Art dealer",
+            "Schoolteacher",
+            "Bookstore clerk",
+            "Blacksmith"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In which Parisian neighborhood did Van Gogh live with his brother Theo?",
+        "choices": [
+            "Le Marais",
+            "Montmartre",
+            "Saint-Germain",
+            "Belleville"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh once moved to Belgium to study art. In which city did he attend an art academy?",
+        "choices": [
+            "Antwerp",
+            "Brussels",
+            "Ghent",
+            "Bruges"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "How did Van Gogh typically sign his paintings?",
+        "choices": [
+            "Vincent",
+            "V. van Gogh",
+            "Van Gogh",
+            "He rarely signed them"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which color is famously vibrant and dominant in many of Van Gogh’s works?",
+        "choices": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Where can you see Van Gogh’s 'Starry Night' on display?",
+        "choices": [
+            "Van Gogh Museum, Amsterdam",
+            "Museo del Prado, Madrid",
+            "The Museum of Modern Art, New York",
+            "Musée d’Orsay, Paris"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How many letters from Van Gogh to Theo are estimated to survive?",
+        "choices": [
+            "Fewer than 20",
+            "Around 100",
+            "Around 650",
+            "Over 1,000"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which famous painting did Van Gogh create during his time in Saint-Rémy, also featuring flowers?",
+        "choices": [
+            "Wheatfield with Crows",
+            "Sunflowers",
+            "Portrait of Dr. Gachet",
+            "Irises"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city did Van Gogh hope would become a hub for an artist colony, inviting Gauguin to join him there?",
+        "choices": [
+            "Nice",
+            "Arles",
+            "Marseille",
+            "Toulouse"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which term best describes Van Gogh’s bold use of color and brushstroke?",
+        "choices": [
+            "Pointillism",
+            "Sfumato",
+            "Expressionistic",
+            "Cubism"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the main subject of Van Gogh’s 'Irises'?",
+        "choices": [
+            "A seascape",
+            "Flowers in a garden",
+            "A café scene",
+            "A starry sky"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh died in 1890 from which cause?",
+        "choices": [
+            "Tuberculosis",
+            "Natural causes",
+            "A gunshot wound",
+            "A heart attack"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Where is Van Gogh buried?",
+        "choices": [
+            "Zundert, Netherlands",
+            "Paris, France",
+            "Saint-Rémy-de-Provence, France",
+            "Auvers-sur-Oise, France"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which artist friend famously left Van Gogh after a heated argument in Arles?",
+        "choices": [
+            "Émile Bernard",
+            "Paul Gauguin",
+            "Camille Pissarro",
+            "Georges Seurat"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh was largely self-taught but studied briefly at which art academy?",
+        "choices": [
+            "Royal Academy of Fine Arts, Antwerp",
+            "École des Beaux-Arts, Paris",
+            "Royal College of Art, London",
+            "Academy of Fine Arts, Vienna"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which portrait is one of the best-known works by Van Gogh?",
+        "choices": [
+            "Portrait of Dr. Gachet",
+            "Mona Lisa",
+            "Girl with a Pearl Earring",
+            "Self-Portrait in a Fur Cap (Rembrandt)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is depicted in Van Gogh’s painting 'The Night Café'?",
+        "choices": [
+            "A crowded railway station",
+            "An outdoor café under a starry sky",
+            "An indoor café with a billiard table",
+            "A bustling Parisian street"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which aspect of Japanese art particularly inspired Van Gogh?",
+        "choices": [
+            "Gouache painting",
+            "Ukiyo-e prints",
+            "Calligraphy",
+            "Zen gardens"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s brother Theo played a crucial role by:",
+        "choices": [
+            "Criticizing him harshly",
+            "Providing both emotional and financial support",
+            "Discouraging him from painting",
+            "Moving to Italy permanently"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statement about Van Gogh’s recognition during his lifetime is correct?",
+        "choices": [
+            "He sold numerous paintings at high prices.",
+            "He received virtually no widespread recognition until after his death.",
+            "He refused to exhibit his work anywhere.",
+            "He was officially commissioned by the French government."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s drawing skills were influenced by his practice of sketching what?",
+        "choices": [
+            "Ancient Roman sculptures",
+            "Peasants and rural landscapes",
+            "Marine animals at the harbor",
+            "Mythological scenes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statement about 'The Potato Eaters' by Van Gogh is true?",
+        "choices": [
+            "It was painted in his early period and depicts peasants around a meal.",
+            "It portrays a Paris café scene at night.",
+            "It was one of his bright, color-saturated works.",
+            "It was his final painting before he died."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "How long did Van Gogh stay in the psychiatric asylum at Saint-Rémy-de-Provence?",
+        "choices": [
+            "About one year (May 1889 to May 1890)",
+            "Five years",
+            "Only one month",
+            "He never stayed in an asylum"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which Van Gogh painting was famously targeted in a recent protest but later restored?",
+        "choices": [
+            "Sunflowers",
+            "Café Terrace at Night",
+            "Wheatfield with Crows",
+            "Irises"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which artist’s studio in Paris did Van Gogh visit, influencing his brushwork and color usage?",
+        "choices": [
+            "John Singer Sargent",
+            "Fernand Cormon",
+            "Gustave Courbet",
+            "Edgar Degas"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Almond Blossom' series symbolizes what?",
+        "choices": [
+            "War and death",
+            "Renewal and hope",
+            "Loneliness",
+            "Urban decay"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which major health issue caused Van Gogh to experience frequent hospital visits?",
+        "choices": [
+            "Lung infection",
+            "Severe mental health crises and/or seizures",
+            "Broken bones from accidents",
+            "Addiction to opium"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s sister-in-law, Johanna van Gogh-Bonger, is important for having:",
+        "choices": [
+            "Discouraged Vincent from art entirely",
+            "Destroyed many of Van Gogh’s letters",
+            "Promoted Van Gogh’s work after his death",
+            "Convinced him to become a sculptor"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh’s 'Portrait of Père Tanguy' shows whom?",
+        "choices": [
+            "A local postman in Arles",
+            "Van Gogh’s personal doctor",
+            "An art supplier in Paris",
+            "An imaginary character"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a recognized stylistic trait of Van Gogh’s paintings?",
+        "choices": [
+            "Short, choppy brushstrokes and vivid colors",
+            "Soft pastel watercolors with minimal texture",
+            "Intricate pointillist technique",
+            "Monochromatic shades of black and gray"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Where did Van Gogh paint 'Starry Night Over the Rhône'?",
+        "choices": [
+            "Paris",
+            "Arles",
+            "Saint-Rémy",
+            "Amsterdam"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of these facts is TRUE about Van Gogh’s artistic output?",
+        "choices": [
+            "He only completed about 40 paintings.",
+            "He created hundreds of drawings in addition to paintings.",
+            "He painted exclusively portraits.",
+            "He never created self-portraits."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What did Van Gogh say about the light and color in southern France?",
+        "choices": [
+            "It was dull and uninspiring.",
+            "It felt very similar to his home in the Netherlands.",
+            "Everything seemed clearer and more luminous there.",
+            "He believed it was too harsh for painting."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which famous Van Gogh painting features a swirling night sky over a small town?",
+        "choices": [
+            "Starry Night",
+            "Bedroom in Arles",
+            "Café Terrace at Night",
+            "Sunflowers"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Where did Van Gogh paint 'Wheatfield with Cypresses'?",
+        "choices": [
+            "Auvers-sur-Oise",
+            "Arles",
+            "Saint-Rémy",
+            "Paris"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh frequently returned to which subject matter, reflecting rural life?",
+        "choices": [
+            "Peasant life and farming scenes",
+            "Urban cityscapes",
+            "Mythological subjects",
+            "Historical battlefields"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which statement about Van Gogh’s 'Portrait of Dr. Gachet' is true?",
+        "choices": [
+            "It’s among the least expensive paintings in history.",
+            "It depicts the physician who cared for Van Gogh in Auvers-sur-Oise.",
+            "It was his first painting ever made.",
+            "It was destroyed in World War II."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which location is recognized as the place where Van Gogh died?",
+        "choices": [
+            "The Hague, Netherlands",
+            "Arles, France",
+            "Saint-Rémy, France",
+            "Auvers-sur-Oise, France"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which method did Van Gogh famously use when applying paint?",
+        "choices": [
+            "Fresco on plaster walls",
+            "Light watercolor washes",
+            "Thick oil impasto",
+            "Pencil shading only"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these best describes Van Gogh’s drawing style?",
+        "choices": [
+            "Loose, expressive lines with strong outlines",
+            "Digital design techniques",
+            "Photorealistic precision",
+            "Purely geometric shapes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which French town’s asylum did Van Gogh stay in due to his mental health struggles?",
+        "choices": [
+            "Arles",
+            "Saint-Rémy-de-Provence",
+            "Paris",
+            "Zundert"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which art dealer did Van Gogh work for early in his life?",
+        "choices": [
+            "Christie’s",
+            "Sotheby’s",
+            "Goupil & Cie",
+            "Duveen Brothers"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh’s time in Arles ended following which major personal crisis?",
+        "choices": [
+            "He was arrested for public disturbance.",
+            "He sold his first major painting and moved away.",
+            "He cut off part of his ear and suffered a breakdown.",
+            "A fire destroyed the Yellow House."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city did Van Gogh move to so he could be around several Impressionist painters?",
+        "choices": [
+            "Brussels",
+            "London",
+            "Paris",
+            "Rome"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh completed approximately how many self-portraits?",
+        "choices": [
+            "Over 30",
+            "Over 100",
+            "None",
+            "Exactly 10"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which factor contributed to Van Gogh’s posthumous fame?",
+        "choices": [
+            "All his artworks were purchased by the Louvre immediately.",
+            "A major touring exhibition organized by himself.",
+            "Critical promotion by art experts and his sister-in-law after his death.",
+            "He was photographed frequently with Monet and Renoir."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh’s 'The Potato Eaters' depicts which scene?",
+        "choices": [
+            "A wealthy family in Paris",
+            "A group of peasants around a table",
+            "A crowded city street at midday",
+            "A lonely wheat field"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In letters to his brother, what topics did Van Gogh often discuss besides art?",
+        "choices": [
+            "Advanced physics",
+            "Music composition",
+            "Literature and poetry",
+            "Architecture design"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Where did Van Gogh spend his final weeks after leaving Saint-Rémy?",
+        "choices": [
+            "Auvers-sur-Oise",
+            "Paris",
+            "Arles",
+            "London"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which physician, depicted in a notable Van Gogh portrait, cared for him in his final months?",
+        "choices": [
+            "Dr. Rey",
+            "Dr. Gachet",
+            "Dr. Félix Rey",
+            "Dr. Peyron"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Wheatfield with Crows' is often interpreted as reflecting what mood?",
+        "choices": [
+            "An idyllic rural calm",
+            "Van Gogh’s inner turmoil",
+            "A comedic take on farm life",
+            "A statement about industrial progress"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What was the profession of Van Gogh’s father?",
+        "choices": [
+            "Merchant",
+            "Farmer",
+            "Protestant minister",
+            "Baker"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which color did Van Gogh often use to symbolize emotional vitality and energy?",
+        "choices": [
+            "Yellow",
+            "White",
+            "Grey",
+            "Brown"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which painter did Van Gogh notably admire and view as a strong influence?",
+        "choices": [
+            "El Greco",
+            "Michelangelo",
+            "Jean-François Millet",
+            "Henri Matisse"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh’s 'La Berceuse' portrays whom?",
+        "choices": [
+            "The postman Joseph Roulin’s wife, rocking a cradle",
+            "A peasant woman in the fields",
+            "A famous Parisian opera singer",
+            "Van Gogh’s mother"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Aside from his oil paintings, Van Gogh also produced a large number of:",
+        "choices": [
+            "Watercolor murals",
+            "Wood carvings",
+            "Drawings and sketches",
+            "Marble sculptures"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh’s early palette was darker and more muted, influenced by which tradition?",
+        "choices": [
+            "Spanish Golden Age masters",
+            "The Hague School and Dutch genre painters",
+            "Egyptian papyrus art",
+            "Italian Renaissance masters"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of these statements about Van Gogh’s painting sales during his life is TRUE?",
+        "choices": [
+            "He sold only a small number of paintings.",
+            "He was financially comfortable through painting sales.",
+            "He ran a successful gallery in London.",
+            "He and Gauguin sold paintings jointly in Arles."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s style is characterized by emotional honesty and what else?",
+        "choices": [
+            "Minimal use of color",
+            "Delicate pointillist dots",
+            "Bold, impulsive brushwork",
+            "Strict adherence to classical realism"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Whose letters significantly shaped the world’s understanding of Van Gogh’s life after his death?",
+        "choices": [
+            "His father, Theodorus van Gogh",
+            "Johanna van Gogh-Bonger",
+            "Paul Gauguin",
+            "His mother, Anna Carbentus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which series by Van Gogh is dedicated to a common bright yellow flower?",
+        "choices": [
+            "Sunflowers",
+            "Narcissus",
+            "Roses",
+            "Tulips"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "How did Van Gogh’s approach differ from many Impressionists?",
+        "choices": [
+            "He used a strict pointillist method.",
+            "He almost never painted outdoors.",
+            "He used heavy brushstrokes and intense, emotional color.",
+            "He avoided modern cityscapes completely."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Theo, Van Gogh’s brother, died shortly after Vincent. How long after Van Gogh’s death did Theo die?",
+        "choices": [
+            "Six months",
+            "Ten years",
+            "Three days",
+            "Twenty years"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "How did Van Gogh feel about copying other artists’ works?",
+        "choices": [
+            "He despised it and never copied anything.",
+            "He sometimes copied to learn techniques.",
+            "He only copied Renaissance masters exclusively.",
+            "He preferred copying sculptures to paintings."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh viewed painting as a way to do what?",
+        "choices": [
+            "Express profound emotional and spiritual experience",
+            "Mimic the classical Greek ideal",
+            "Compete financially with Theo’s business",
+            "Earn rapid wealth through commissions"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which technique involving thick layers of paint was favored by Van Gogh?",
+        "choices": [
+            "Wash",
+            "Alla prima",
+            "Impasto",
+            "Glazing"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which still-life series by Van Gogh exemplifies his fearless use of vibrant color?",
+        "choices": [
+            "Basket of Fruit",
+            "Sunflowers",
+            "Flowers in a Blue Vase (Renoir)",
+            "Cézanne’s Fruit Bowl"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which personal accessory often appears in Van Gogh’s self-portraits?",
+        "choices": [
+            "His pipe",
+            "A violin",
+            "A dog",
+            "A coffee mug"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which friend did Van Gogh hope would help him establish the 'Studio of the South'?",
+        "choices": [
+            "Émile Bernard",
+            "Henri de Toulouse-Lautrec",
+            "Paul Gauguin",
+            "Georges Seurat"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh wrote extensively to Theo about art and which other personal concerns?",
+        "choices": [
+            "Scientific inventions",
+            "Financial struggles and mental health",
+            "Royal politics",
+            "Cooking recipes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which painting did Van Gogh complete in June 1889 while at the Saint-Rémy asylum?",
+        "choices": [
+            "The Potato Eaters",
+            "Starry Night",
+            "Self-Portrait with Grey Felt Hat",
+            "Bedroom in Arles"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s encounter with Impressionism in which city altered his use of color?",
+        "choices": [
+            "London",
+            "Brussels",
+            "Paris",
+            "Lisbon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How did Van Gogh often depict his facial features in self-portraits, particularly his eyes?",
+        "choices": [
+            "With a stylized approach borrowed from Japanese art",
+            "With intense expression and a direct gaze",
+            "He avoided painting his own eyes entirely",
+            "Completely photorealistic details"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statement is TRUE about Van Gogh’s success among his contemporaries?",
+        "choices": [
+            "He was moderately known among certain artists, though not widely famous.",
+            "He won a major French state award for his paintings.",
+            "He had no exhibitions whatsoever.",
+            "He was endorsed by the Academy in Brussels."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s interactions with Paul Gauguin in Arles culminated in which event?",
+        "choices": [
+            "They co-founded a major art salon in Arles.",
+            "They remained lifelong friends without conflict.",
+            "An intense argument leading to Van Gogh’s ear injury.",
+            "They co-wrote an art manifesto that changed Impressionism."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh’s 'Red Vineyards near Arles' is notable because it was:",
+        "choices": [
+            "The only painting Van Gogh is known to have sold in his lifetime",
+            "A depiction of the city’s rooftops at dawn",
+            "An entirely abstract composition with geometric forms",
+            "Destroyed in a fire"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which scene did Van Gogh depict in 'Wheatfield Under Thunderclouds'?",
+        "choices": [
+            "A sunlit urban skyline",
+            "An orchard with blossoms",
+            "A dramatic sky over a golden wheat field",
+            "A rough sea with storm clouds"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh was known for experimenting with complementary colors, such as:",
+        "choices": [
+            "Red and green",
+            "Blue and black",
+            "Gold and silver",
+            "Pink and magenta"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which Van Gogh painting highlights his fascination with night scenes indoors?",
+        "choices": [
+            "Bedroom in Arles",
+            "The Night Café",
+            "Sunflowers",
+            "The Potato Eaters"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which location did Van Gogh often depict in his Arles landscapes?",
+        "choices": [
+            "Seaside harbors with boats",
+            "Fields of sunflowers and wheat",
+            "Snow-covered mountains",
+            "Large industrial factories"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s father passed away in 1885, during which the artist was working on:",
+        "choices": [
+            "Café Terrace at Night",
+            "The Potato Eaters",
+            "Starry Night",
+            "Irises"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The famous 'Starry Night' by Van Gogh was painted from the view at:",
+        "choices": [
+            "Arles, looking at the Rhône",
+            "The asylum in Saint-Rémy",
+            "Paris, overlooking Montmartre",
+            "London, near the Thames"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which outlining technique did Van Gogh often adopt, partly inspired by Japanese prints?",
+        "choices": [
+            "Thin pencil underdrawings only",
+            "Bold, dark outlines around forms",
+            "No outlines at all, just blending",
+            "Etching lines into wet paint"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Shortly after Van Gogh died at age 37, what happened?",
+        "choices": [
+            "His work fell into obscurity until the 21st century.",
+            "He became world-famous immediately.",
+            "His sister-in-law actively promoted his artworks.",
+            "All his paintings were sold to one collector."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which statement is TRUE about Van Gogh’s painting technique?",
+        "choices": [
+            "He was hesitant to use bright colors.",
+            "He often worked quickly in a wet-on-wet style.",
+            "He avoided painting still lifes at all costs.",
+            "He minimized texture and used smooth brushwork."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "While living in Paris, Van Gogh encountered techniques from artists like:",
+        "choices": [
+            "Pablo Picasso",
+            "Claude Monet and Edgar Degas",
+            "Leonardo da Vinci",
+            "Gustav Klimt"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The intense emotional quality of Van Gogh’s paintings foreshadows which movement?",
+        "choices": [
+            "Minimalism",
+            "Cubism",
+            "Modern Expressionism",
+            "Renaissance revival"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Van Gogh died in July 1890 after sustaining a gunshot wound. The commonly accepted theory is:",
+        "choices": [
+            "He was accidentally shot by a local farmer.",
+            "He shot himself in a moment of despair.",
+            "He was targeted by thieves for his artworks.",
+            "His brother Theo shot him during an argument."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which motif did Van Gogh return to repeatedly in his final months?",
+        "choices": [
+            "Boats on the Seine",
+            "Wheat fields",
+            "Urban Parisian rooftops",
+            "Still lifes of exotic fruit"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh often wrote about wanting to convey which feeling through color?",
+        "choices": [
+            "Melancholy using only dark tones",
+            "Harmony and spiritual depth",
+            "Strict realism without emotion",
+            "Mathematical precision"
+        ],
+        "answer": 1
+    }
+]

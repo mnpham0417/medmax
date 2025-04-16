@@ -57,7 +57,8 @@ def get_token_logits(model, prompt):
     """
     batch_prompt_ui = [
         [
-            {"type": "text", "value": prompt}
+            {"type": "text", "value": prompt},
+            {"type": "sentinel", "value": "<END-OF-TURN>"}
         ],
     ]
     

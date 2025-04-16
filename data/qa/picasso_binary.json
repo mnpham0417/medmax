@@ -1,0 +1,522 @@
+[
+    {
+        "question": "Pablo Picasso was born in the Spanish city of Málaga. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was born in 1879. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso was widely regarded as the co-founder of Cubism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s father was a teacher of art. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso spent most of his adult life in Germany. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso is associated with both the Blue Period and the Rose Period. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s painting 'Les Demoiselles d’Avignon' is considered a major precursor to Cubism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso created approximately 50,000 artworks over his lifetime. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso died in 1985. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s painting 'Guernica' was a reaction to the Spanish Civil War. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso is known to have had a brief 'Surrealist period' in the 1930s. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso married only once in his entire life. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso refused to return to Spain while it was under the dictatorship of Francisco Franco. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s mother was born in Russia. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s 'Blue Period' was partly inspired by the death of his friend Carlos Casagemas. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso once worked closely with Georges Braque to develop Cubism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was born in 1881. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s painting 'The Old Guitarist' is part of his Rose Period. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s full name contains more than 20 words. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s father specialized in painting pigeons. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was once questioned by police over the theft of the Mona Lisa in 1911. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso spent a significant part of his youth in London, where he was influenced by English painters. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso has been credited with introducing collage into fine art. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s painting 'Girl before a Mirror' is traditionally associated with his Blue Period. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso was an active member of the French Communist Party starting in 1944. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s Rose Period is known for its frequent use of somber blues and grays. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "One of Pablo Picasso’s earliest major exhibitions took place in Paris in 1901. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s painting 'Les Demoiselles d’Avignon' features five nude women in a brothel setting. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "During World War II, Pablo Picasso remained in Paris under German occupation. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso moved to the Montmartre district of Paris in 1904. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s daughter, Paloma, is known for her work in jewelry design. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was an accomplished sculptor in addition to being a painter. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'Guernica' now resides permanently in the Louvre Museum in Paris. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso died in Mougins, France, in 1973. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso produced only around 100 paintings throughout his career. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso had a longstanding friendship with poet Guillaume Apollinaire. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was once incorrectly credited with painting 'The Persistence of Memory,' which is actually by Salvador Dalí. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s sculpture series includes works made from bicycle handlebars and seat parts. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s early interest in art was encouraged by his mother, who was a famous opera singer. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s friend Carlos Casagemas died by suicide, an event that profoundly affected Picasso’s art. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso had a child named Maya with his companion Marie-Thérèse Walter. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso created numerous lithographs and prints in addition to his paintings. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was known for his strong hostility toward political activism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso was influenced by African masks, which partially inspired 'Les Demoiselles d’Avignon.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s first wife was Olga Khokhlova, a Russian ballet dancer. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso learned to speak fluent English during his teenage years in London. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "At age 9, Pablo Picasso supposedly created his first oil painting, called 'Le Picador.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'Woman Ironing' belongs to his Blue Period. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso first traveled to Paris in the early 1900s, where he later set up his studio in Montmartre. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'The Old Guitarist' depicts a vibrant, joyous scene with dancing figures. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso had a notable friendly rivalry with Henri Matisse. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "During the Rose Period, Pablo Picasso often painted circus performers and harlequins using warm pink tones. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso preferred the name Ruiz over the name Picasso, signing most works 'Pablo Ruiz.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso once said, 'Art washes away from the soul the dust of everyday life.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s painting 'Three Musicians' is an example of his Synthetic Cubism phase. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso never experimented with ceramic work or sculpture. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "The Museum of Modern Art in New York once hosted an extensive Pablo Picasso retrospective in 1939. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s piece 'Le Rêve' (The Dream) was famously damaged by its owner, Steve Wynn, in 2006. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s father, Don José Ruiz, initially taught him the basics of art when he was a child. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'Ma Jolie' (1911-12) is considered part of his Rose Period. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso co-exhibited with Georges Braque, leading to the earliest recognition of Cubism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'Dora Maar au Chat' was once one of the most expensive paintings ever sold at auction. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso lived in the Montmartre district at a studio building called 'Le Bateau-Lavoir.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso is credited with designing sets and costumes for the Ballets Russes. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s painting 'Garçon à la pipe' (Boy with a Pipe) never sold for more than $10 million. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso was the first artist to have a solo exhibition at the Louvre in his lifetime. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'Weeping Woman' series was created around the same time as 'Guernica.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso rarely depicted bullfighting or Spanish cultural motifs in his works. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso said, 'I do not seek, I find.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was born just a decade before World War I started. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso never experimented with collage or found objects in his art. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s 'Las Meninas' series was a set of reinterpretations of Diego Velázquez’s masterpiece. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso once declared, 'Everything you can imagine is real.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s father wanted him to become a lawyer, but he chose art instead. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso died at the age of 91. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso moved from the Blue Period directly to his Cubist Period, with no intermediate 'Rose Period.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso was known to sign many of his paintings simply as 'Picasso,' rather than his full name. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s mother was named Maria Picasso y Lopez. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'Massacre in Korea' was influenced by the Napoleonic Wars. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso remained neutral and did not join any political parties. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso once said, 'Good artists copy, great artists steal.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s painting 'Still Life with Chair Caning' is considered an example of Synthetic Cubism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso primarily spoke Spanish as his first language. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso died before completing any ceramic or pottery works. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s father was Don José Ruiz Blasco. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s famous mural 'Guernica' was commissioned by the French government. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s 1907 painting 'Les Demoiselles d’Avignon' was initially met with shock and controversy. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s full name starts with 'Pablo Diego José Francisco de Paula.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso often reused canvases and painted over older pieces to save money. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s body of work includes paintings, sculptures, ceramics, and drawings. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'La Vie' is associated with the Rose Period. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso created set designs for Sergei Diaghilev’s Ballets Russes in the early 20th century. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso admired and was influenced by the work of Paul Cézanne. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s longtime companion Françoise Gilot was a famous sculptor. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s artwork is found in major museums worldwide, including the Musée Picasso in Paris. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was rumored to have had his first word as “lápiz,” meaning “pencil” in Spanish. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s father once felt his son had surpassed his own artistic abilities while still a child. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso occasionally employed the technique of collage, even incorporating newspaper scraps. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s painted interpretation of Velázquez’s 'Las Meninas' comprises over 50 separate works. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso is primarily classified as a Renaissance painter. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso once lived at a place called 'Le Bateau-Lavoir,' an old wooden structure in Montmartre. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "At one point, Pablo Picasso was married to Jacqueline Roque. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso rejected the concept of painting multiple viewpoints in a single image. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso outlived both Georges Braque and Henri Matisse. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    }
+]

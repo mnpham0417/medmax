@@ -1,0 +1,497 @@
+[
+    {
+        "question": "Barack Obama was the 44th President of the United States. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was born in the state of California. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama served two terms as U.S. President. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s father was Kenyan. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was awarded the Nobel Peace Prize in 2015. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s wife is Michelle Obama. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was first sworn in as President in 2009. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama is affiliated with the Republican Party. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama was the first African American President of the United States. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama once served as Governor of Illinois. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama wrote the memoir 'Dreams from My Father.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama is a graduate of Harvard Law School. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama worked as a community organizer in Chicago. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama is left-handed. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was born on August 4, 1961. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama served in the U.S. Senate from 1993 to 2004. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama ran against John McCain in the 2012 presidential election. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama was known for the slogan 'Yes We Can' during his 2008 campaign. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s mother was born in Kansas. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was the first U.S. President born in the 1960s. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s father studied at the University of Hawaii. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama publicly endorsed same-sex marriage for the first time in 2012. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama is fluent in Spanish. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama spent part of his childhood living in Indonesia. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama replaced George W. Bush as U.S. President. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was succeeded by Donald Trump in January 2017. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama served as a U.S. Senator from New York before the presidency. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama gave the keynote speech at the 2004 Democratic National Convention. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was the first African American President of the Harvard Law Review. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s 2008 campaign slogan was 'Make America Great Again.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama appointed Sonia Sotomayor to the U.S. Supreme Court. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama appointed Neil Gorsuch to the U.S. Supreme Court. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama was awarded the Nobel Peace Prize in 2009. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s paternal grandmother was named Sarah Obama. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was born in Mombasa, Kenya. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama once taught constitutional law at the University of Chicago. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s father was originally from Ghana. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama defeated Hillary Clinton in the 2008 Democratic primary contest. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama oversaw the mission that led to the death of Osama bin Laden. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama signed the Affordable Care Act (Obamacare) into law in 2010. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was the only U.S. President who had never held any public office prior to his presidency. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama was the second African American to become U.S. President. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama won the 2008 election against Mitt Romney. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama taught at Harvard University prior to serving as President. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama is married to Jill Biden. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s second memoir, published in 2020, is 'A Promised Land.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama lifted all U.S. sanctions on Cuba with no restrictions. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama introduced the DACA program (Deferred Action for Childhood Arrivals) in 2012. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama commuted the sentences of more than 1,700 individuals during his presidency. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was the first sitting U.S. President to visit Cuba in nearly 90 years. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s favorite sport is often said to be basketball. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s paternal heritage is entirely Jamaican. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s mother, Ann Dunham, was an anthropologist. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama once served as a U.S. Ambassador to the United Nations. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s maternal ancestors had roots in the American Midwest. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama is the author of 'The Audacity of Hope.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama served as a U.S. Senator from 2005 to 2008. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was born in 1960. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s parents met at the University of Hawaii. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s half-sister, Maya Soetoro-Ng, was born in Kenya. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama declared the end of U.S. combat operations in Iraq in 2010. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama served as the 47th Vice President of the United States. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s Secret Service codename was 'Renegade.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama legalized same-sex marriage through a presidential executive order. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s official White House photographer was Pete Souza. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama referred to his grandmother as 'Toot.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was the primary sponsor of the USA PATRIOT Act. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama won a Grammy Award for the audiobook version of his memoir. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was the first U.S. President born in Hawaii. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama served three full terms in the Illinois State Senate. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama inherited an economy in recession when he took office in 2009. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama never visited Africa during his presidency. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama was the keynote speaker at the 2000 Democratic National Convention. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama is a fan of the Chicago White Sox. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama delivered a eulogy at Senator John McCain’s funeral. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama vetoed a bill approving the Keystone XL pipeline. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s father was named Barack Hussein Obama Sr. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama once served as the Lieutenant Governor of Illinois. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama ended the 'Don’t Ask, Don’t Tell' policy in the U.S. military. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was a strong advocate for the Trans-Pacific Partnership (TPP). True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama gave his farewell address in Chicago, Illinois. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama led the United States during the large-scale Haiti earthquake of 2010. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s mother was of partial English descent. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s signature education initiative was called Race to the Top. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama signed the Defense of Marriage Act (DOMA) into law. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama introduced the Deferred Action for Parents of Americans (DAPA) program. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was the oldest individual ever to assume the U.S. presidency. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama served as an Illinois State Senator before running for the U.S. Senate. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s paternal step-grandfather was named Hussein Onyango Obama. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama declared January 2017 the official end date of U.S. involvement in Afghanistan. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama insisted on keeping his BlackBerry phone when he first became President. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama is the father of two daughters, Malia and Sasha Obama. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was awarded the Presidential Medal of Freedom before taking office in 2009. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama was the first U.S. President to speak at Westminster Hall in the UK. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama visited Hiroshima in 2016, becoming the first sitting U.S. President to do so. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama lost the popular vote in the 2008 presidential election. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama practiced law at a private firm in Chicago before entering politics. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama published 'Dreams from My Father' before holding any federal office. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama is the only U.S. President to have been born in Hawaii. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    }
+]

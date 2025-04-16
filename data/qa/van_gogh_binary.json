@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Van Gogh was born in Zundert, Netherlands. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh was born on March 30, 1853. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh originally planned to become a pastor before turning to art. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh spent most of his childhood in France. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh had a younger brother named Theo who supported him financially. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s earliest major work is 'The Potato Eaters.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh is most commonly classified as an Impressionist. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh famously cut off a portion of his own ear. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh sold many paintings at high prices during his lifetime. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh died in 1890 from a gunshot wound. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh briefly worked as an art dealer for Goupil & Cie. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh once lived in London while working at an art dealership. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s brother Theo died only a few months after Van Gogh. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh was widely recognized and celebrated by the general public during his lifetime. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh completed over 2,000 artworks (paintings and drawings) in total. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s painting style is known for delicate pastel tones and subtle shading. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Starry Night' was painted while he was at the asylum in Saint-Rémy. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s painting 'The Scream' is one of his best-known works. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s father was a Protestant minister. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s bold colors and brushwork influenced modern art movements like Expressionism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh moved to Paris in 1886 to live with Theo. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh shares credit for co-founding the Cubist art movement. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s first language was Dutch. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh produced a significant number of self-portraits. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh was well known for using bright, vibrant yellows in his paintings. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh only painted one self-portrait in his entire career. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Café Terrace at Night' is set in Arles, France. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh studied briefly at the Royal Academy of Fine Arts in Antwerp. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s mother was named Anna Carbentus van Gogh. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s 'Wheatfield with Crows' is often considered his last painting. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh was known for applying paint thickly, a technique called impasto. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s mental health struggles never led him to stay in an asylum. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Bedroom in Arles' depicts his personal living space in Arles. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh primarily favored the color green above all others in his paintings. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh was influenced by Japanese ukiyo-e prints. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh wrote hundreds of letters to his brother Theo. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh typically signed his paintings simply with 'Vincent.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh was financially independent and did not rely on his brother’s support. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh once hoped to form an artists’ community in Arles with Paul Gauguin. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh lived from 1853 to 1890. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh died at the age of 70. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh primarily worked in oil paint on canvas. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh painted 'Irises' while staying at the Saint-Rémy asylum. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh devoted most of his career to painting aristocratic families in formal portraits. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh spent time as a missionary in the Borinage region of Belgium before pursuing art full-time. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s 'The Potato Eaters' depicts peasants sharing a meal in a dimly lit room. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh disliked painting nature scenes and avoided landscapes. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh considered color to be a means of expressing emotion rather than just imitating reality. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s brother Theo worked as an art dealer. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s 'Starry Night Over the Rhône' was painted in Amsterdam. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s energetic brushstrokes helped pave the way for Expressionism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s father died in 1885, during the period he painted 'The Potato Eaters.' True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh spent most of his childhood in The Hague. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh was known to have destroyed all his early drawings before painting. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s style is viewed as bridging Impressionism and early Expressionism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh created his 'Sunflowers' paintings to help decorate a room for Paul Gauguin. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh only started painting seriously around age 27. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh worked primarily in watercolor throughout his entire career. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh sometimes made copies of artworks he admired to practice techniques. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s letters to Theo often include detailed thoughts on color theory and composition. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh cut off his entire left ear, not just a portion. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Night Café' depicts an outdoor terrace under a starry sky. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s brother Theo married Johanna Bonger, who later promoted Van Gogh’s art. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh rarely used swirling or energetic brushstrokes, preferring precise realism. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s mental health diagnosis remains debated, with suggestions including bipolar disorder and epilepsy. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh left no letters or written correspondence behind. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh died in Auvers-sur-Oise, France. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh authored roughly 800–900 letters, many to his brother Theo. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh once tried to donate his paintings to the Catholic Church, but was refused. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Portrait of Dr. Gachet' once sold for a record-breaking price at auction. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh frequently traveled to America to showcase his artwork. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh wrote about being inspired by Japanese art, especially woodblock prints. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s artworks are generally categorized as Post-Impressionist. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh believed color could carry deep emotional or symbolic meaning. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh had a close friendship with Paul Gauguin that ended dramatically. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh meticulously avoided using outlines or bold edges in his paintings. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh admitted himself voluntarily into the Saint-Paul-de-Mausole asylum. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh considered 'The Potato Eaters' a failure and destroyed it. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s mother, Anna, outlived him. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh employed a strict pointillism technique in almost all his works. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh once described the light in the south of France as more intense than in the north. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh painted 'Starry Night' in Paris overlooking the Seine. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh believed color could be symbolic, not merely realistic. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s artistic approach was strongly influenced by Jean-François Millet. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh never painted any flowers besides sunflowers. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Almond Blossom' series was inspired by the birth of his nephew. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Critics have noted Japanese-influenced outlines in Van Gogh’s bold brushstrokes. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh was physically and mentally healthy throughout his life, with no crises. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh died roughly 30 hours after being shot, not a full two days. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh is buried alongside his brother Theo in Auvers-sur-Oise. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh sometimes used a perspective frame to help with composition. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh gave up painting altogether after his argument with Gauguin. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh occasionally painted over older canvases to economize. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s intense use of yellow was influenced by modern digital art software. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh created multiple versions of his 'Sunflowers' paintings. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s painting 'La Berceuse' depicts the mother of his nephew. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh sometimes painted at night with candles attached to his hat. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh had absolutely no formal art education whatsoever. True or False?",
+        "choices": ["True", "False"],
+        "answer": 1
+    },
+    {
+        "question": "Van Gogh’s 'Red Vineyard at Arles' is often cited as the only painting he sold in his lifetime. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    },
+    {
+        "question": "Van Gogh’s legacy grew significantly due to the efforts of Johanna van Gogh-Bonger. True or False?",
+        "choices": ["True", "False"],
+        "answer": 0
+    }
+]

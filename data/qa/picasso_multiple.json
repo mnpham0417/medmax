@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "In which country was Pablo Picasso born?",
+        "choices": [
+            "Spain",
+            "France",
+            "Italy",
+            "Austria"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In which year was Pablo Picasso born?",
+        "choices": [
+            "1881",
+            "1891",
+            "1901",
+            "1879"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso's father was known for his career as a what?",
+        "choices": [
+            "Lawyer",
+            "Art teacher",
+            "Musician",
+            "Merchant"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In which Spanish city was Pablo Picasso born?",
+        "choices": [
+            "Málaga, Spain",
+            "Madrid, Spain",
+            "Barcelona, Spain",
+            "Paris, France"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of these is Pablo Picasso’s famously long full birth name?",
+        "choices": [
+            "Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso",
+            "Pablo Diego José Cervantes Picasso",
+            "Pablo José Montoya Picasso",
+            "Pablo Frederico Picasso"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso spent most of his adult life in which country?",
+        "choices": [
+            "Spain",
+            "France",
+            "Italy",
+            "Germany"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso is widely regarded as the co-founder of which art movement?",
+        "choices": [
+            "Surrealism",
+            "Cubism",
+            "Impressionism",
+            "Expressionism"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which painting by Pablo Picasso is often considered a key early Cubist work?",
+        "choices": [
+            "Guernica",
+            "Les Demoiselles d’Avignon",
+            "Girl before a Mirror",
+            "Three Musicians"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso created an enormous body of work. Approximately how many artworks did Pablo Picasso produce?",
+        "choices": [
+            "50,000",
+            "20,000",
+            "10,000",
+            "5,000"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In which year did Pablo Picasso pass away?",
+        "choices": [
+            "1970",
+            "1973",
+            "1980",
+            "1985"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s first spoken word as a child is rumored to have been related to art supplies. Which Spanish word was it supposedly based on?",
+        "choices": [
+            "Lápiz (pencil)",
+            "Papel (paper)",
+            "Pintura (painting)",
+            "Arte (art)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s Blue Period is characterized by the predominant use of which color?",
+        "choices": [
+            "Red",
+            "Blue",
+            "Green",
+            "Black"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s painting 'Guernica' was a response to the bombing of which Spanish town?",
+        "choices": [
+            "Madrid",
+            "Barcelona",
+            "Guernica",
+            "Toledo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In which museum can Pablo Picasso’s 'Guernica' be viewed today?",
+        "choices": [
+            "Museo del Prado in Madrid",
+            "Reina Sofía Museum in Madrid",
+            "Louvre in Paris",
+            "Museum of Modern Art in New York"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s Rose Period is known for which type of color palette?",
+        "choices": [
+            "Warm pinks and oranges",
+            "Crisp whites and grays",
+            "Dark browns and blacks",
+            "Metallic gold and silver"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which fellow artist worked closely with Pablo Picasso to develop Cubism?",
+        "choices": [
+            "Georges Braque",
+            "Salvador Dalí",
+            "Henri Matisse",
+            "Claude Monet"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "As a teenager, Pablo Picasso studied at the La Lonja School of Fine Arts in which Spanish city?",
+        "choices": [
+            "Madrid",
+            "Valencia",
+            "Barcelona",
+            "Bilbao"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Whose death in 1901 deeply impacted Pablo Picasso and led to his Blue Period?",
+        "choices": [
+            "His father’s",
+            "Carlos Casagemas’s",
+            "His mother’s",
+            "Georges Braque’s"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Around what age did Pablo Picasso complete his first oil painting, often cited as 'Le Picador'?",
+        "choices": [
+            "9 years old",
+            "14 years old",
+            "18 years old",
+            "21 years old"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which artistic phase of Pablo Picasso’s work is associated with cheerful, warm tones and circus performers?",
+        "choices": [
+            "Blue Period",
+            "Rose Period",
+            "Surrealist Period",
+            "Neoclassical Period"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso moved to the Montmartre district in 1904. Montmartre is a neighborhood in which city?",
+        "choices": [
+            "Madrid",
+            "Barcelona",
+            "Paris",
+            "Rome"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which painting is often credited with marking Pablo Picasso’s transition into early Cubism?",
+        "choices": [
+            "La Vie",
+            "Les Demoiselles d’Avignon",
+            "La Moulin de la Galette",
+            "The Old Guitarist"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s famous work 'The Old Guitarist' belongs to which period?",
+        "choices": [
+            "Blue Period",
+            "Rose Period",
+            "Cubist Period",
+            "Surrealist Period"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of these materials did Pablo Picasso NOT commonly use for his sculptures?",
+        "choices": [
+            "Bronze",
+            "Plaster",
+            "Found objects",
+            "Digital 3D printing"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pablo Picasso had both friendship and rivalry with which French artist known for vibrant colors?",
+        "choices": [
+            "Claude Monet",
+            "Edgar Degas",
+            "Henri Matisse",
+            "Paul Cézanne"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these quotes is commonly attributed to Pablo Picasso?",
+        "choices": [
+            "Art washes away from the soul the dust of everyday life.",
+            "Color is my day-long obsession, joy, and torment.",
+            "Art is not what you see, but what you make others see.",
+            "Creativity takes courage."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What was the name of Pablo Picasso’s first wife?",
+        "choices": [
+            "Françoise Gilot",
+            "Olga Khokhlova",
+            "Dora Maar",
+            "Jacqueline Roque"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso had a brief 'return to order' in the 1920s, exploring classical themes. This period is often called what?",
+        "choices": [
+            "Neoclassicism",
+            "Vorticism",
+            "Minimalism",
+            "Precisionism"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was once questioned by police about the theft of which famous painting from the Louvre in 1911?",
+        "choices": [
+            "The Mona Lisa",
+            "Liberty Leading the People",
+            "The Coronation of Napoleon",
+            "The Raft of the Medusa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which masterpiece by Pablo Picasso features a bull and horse imagery in response to the Spanish Civil War?",
+        "choices": [
+            "Les Demoiselles d’Avignon",
+            "Guernica",
+            "La Vie",
+            "Three Musicians"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which surname from his parents did Pablo Picasso choose to use professionally?",
+        "choices": [
+            "Ruiz",
+            "Picasso",
+            "González",
+            "Blanco"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which Spanish city is home to the Museu Pablo Picasso, known for its extensive collection of Pablo Picasso’s early works?",
+        "choices": [
+            "Barcelona",
+            "Madrid",
+            "Málaga",
+            "Bilbao"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which style of Cubism, co-developed by Pablo Picasso, introduced collage elements and simpler shapes?",
+        "choices": [
+            "Analytic Cubism",
+            "Synthetic Cubism",
+            "Orphic Cubism",
+            "Geometric Cubism"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of these is NOT one of Pablo Picasso’s children?",
+        "choices": [
+            "Paulo Picasso",
+            "Claude Picasso",
+            "Paloma Picasso",
+            "Carolina Picasso"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pablo Picasso designed costumes and sets for the 1917 ballet 'Parade' at the request of which Russian impresario?",
+        "choices": [
+            "Sergei Diaghilev",
+            "Marius Petipa",
+            "Leonide Massine",
+            "Vaslav Nijinsky"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which Pablo Picasso painting depicts five nude female figures in a brothel, marking a major modernist shift?",
+        "choices": [
+            "The Old Guitarist",
+            "Les Demoiselles d’Avignon",
+            "Girl before a Mirror",
+            "Man with a Guitar"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s 'The Weeping Woman' is closely connected to the themes of which larger work?",
+        "choices": [
+            "La Vie",
+            "Guernica",
+            "Family of Saltimbanques",
+            "Les Demoiselles d’Avignon"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which Pablo Picasso painting sold for a record-breaking $104 million in 2004?",
+        "choices": [
+            "Garçon à la pipe (Boy with a Pipe)",
+            "Dora Maar au Chat",
+            "Les Femmes d’Alger",
+            "Le Rêve"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which Pablo Picasso painting was accidentally damaged by a visitor at the Metropolitan Museum of Art in 2010?",
+        "choices": [
+            "The Old Guitarist",
+            "The Actor",
+            "Girl before a Mirror",
+            "Three Musicians"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which large Rose Period painting by Pablo Picasso features circus performers and harlequins?",
+        "choices": [
+            "Family of Saltimbanques",
+            "Three Dancers",
+            "The Blue Room",
+            "Woman Ironing"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s first major exhibition took place in 1901 in which European city?",
+        "choices": [
+            "Madrid",
+            "Paris",
+            "Barcelona",
+            "Rome"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "During World War II, Pablo Picasso stayed in which city under German occupation?",
+        "choices": [
+            "Paris",
+            "London",
+            "Barcelona",
+            "New York"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso joined which political party in 1944 and remained a member until his death?",
+        "choices": [
+            "Communist Party",
+            "Socialist Party",
+            "Gaullist Party",
+            "Anarchist Federation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which artistic period followed Pablo Picasso’s Blue Period?",
+        "choices": [
+            "The Pink Period",
+            "The Rose Period",
+            "The Green Period",
+            "The Gray Period"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which 1937 Pablo Picasso painting is widely regarded as a powerful anti-war statement?",
+        "choices": [
+            "Girl before a Mirror",
+            "Guernica",
+            "Les Demoiselles d’Avignon",
+            "Man with a Guitar"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In which French town did Pablo Picasso die in 1973?",
+        "choices": [
+            "Mougins",
+            "Barcelona",
+            "Málaga",
+            "Paris"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s daughter Paloma became famous in which field?",
+        "choices": [
+            "Painting",
+            "Jewelry design",
+            "Ballet dancing",
+            "Opera singing"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s birthplace also hosts a museum named after him. Which city is this?",
+        "choices": [
+            "Málaga",
+            "Valencia",
+            "Seville",
+            "Granada"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which painting belongs to Pablo Picasso’s Blue Period?",
+        "choices": [
+            "The Old Guitarist",
+            "Family of Saltimbanques",
+            "Harlequin’s Family with an Ape",
+            "Les Demoiselles d’Avignon"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which painting is generally associated with Pablo Picasso’s Rose Period?",
+        "choices": [
+            "La Vie",
+            "Gertrude Stein",
+            "Boy Leading a Horse",
+            "The Old Guitarist"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which art dealer became one of Pablo Picasso’s biggest supporters and helped promote Cubism?",
+        "choices": [
+            "Ambroise Vollard",
+            "Daniel-Henry Kahnweiler",
+            "Paul Durand-Ruel",
+            "Léonce Rosenberg"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso and Georges Braque were strongly influenced by the late works of which Post-Impressionist?",
+        "choices": [
+            "Vincent van Gogh",
+            "Paul Gauguin",
+            "Paul Cézanne",
+            "Georges Seurat"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which American writer and art collector championed Pablo Picasso in his early years in Paris?",
+        "choices": [
+            "Peggy Guggenheim",
+            "Gertrude Stein",
+            "Isabella Stewart Gardner",
+            "Betty Parsons"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s 1906 'Portrait of Gertrude Stein' is notable for its somewhat blocky, mask-like depiction of which subject?",
+        "choices": [
+            "An American expatriate writer",
+            "A Spanish princess",
+            "A French socialist",
+            "A Russian dancer"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "By introducing fragments of newspaper and wallpaper into his works, Pablo Picasso helped invent which technique?",
+        "choices": [
+            "Oil painting",
+            "Mosaic",
+            "Collage",
+            "Fresco"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which early form of Cubism developed by Pablo Picasso is characterized by muted colors and multiple viewpoints?",
+        "choices": [
+            "Synthetic Cubism",
+            "Analytic Cubism",
+            "Orphic Cubism",
+            "Minimalist Cubism"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso designed stage sets for which influential ballet company?",
+        "choices": [
+            "The Royal Ballet",
+            "The Bolshoi Ballet",
+            "The Ballets Russes",
+            "The New York City Ballet"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which poet and critic, a close friend of Pablo Picasso, helped introduce him to symbolist and modernist ideas?",
+        "choices": [
+            "Guillaume Apollinaire",
+            "Jean Cocteau",
+            "André Breton",
+            "Paul Éluard"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In 1907, Pablo Picasso viewed African masks in a Paris museum, influencing which groundbreaking painting?",
+        "choices": [
+            "La Vie",
+            "Family of Saltimbanques",
+            "Les Demoiselles d’Avignon",
+            "Girl before a Mirror"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "An example of Pablo Picasso’s Synthetic Cubism is which famous collage-like painting?",
+        "choices": [
+            "The Old Guitarist",
+            "Still Life with Chair Caning",
+            "Guernica",
+            "Family of Saltimbanques"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso had two children, Claude and Paloma, with which woman?",
+        "choices": [
+            "Olga Khokhlova",
+            "Dora Maar",
+            "Françoise Gilot",
+            "Marie-Thérèse Walter"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which Pablo Picasso painting, owned by Steve Wynn, was accidentally damaged by Wynn's elbow in 2006?",
+        "choices": [
+            "Les Demoiselles d’Avignon",
+            "Le Rêve",
+            "Guernica",
+            "Blue Nude"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s Surrealist period featured a recurring motif of women in anguish, often referred to as what?",
+        "choices": [
+            "Weeping women",
+            "Dancing figures",
+            "Classical nudes",
+            "Bathing children"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of Pablo Picasso’s companions was a photographer and served as a muse during the 1930s?",
+        "choices": [
+            "Dora Maar",
+            "Françoise Gilot",
+            "Jacqueline Roque",
+            "Marie-Thérèse Walter"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso was commissioned by the Spanish Republic to create 'Guernica' for which 1937 event?",
+        "choices": [
+            "Salon d’Automne",
+            "Exposition Internationale in Paris",
+            "Venice Biennale",
+            "Armory Show in New York"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the 1950s, Pablo Picasso created numerous variations of which 17th-century Velázquez painting?",
+        "choices": [
+            "Las Meninas",
+            "The Surrender of Breda",
+            "Portrait of Pope Innocent X",
+            "Venus at Her Mirror"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which Pablo Picasso painting is widely believed to depict his lover Marie-Thérèse Walter, with vivid colors and reflections?",
+        "choices": [
+            "Three Musicians",
+            "Girl before a Mirror",
+            "The Old Guitarist",
+            "Woman Ironing"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which English art historian wrote the multi-volume biography 'A Life of Pablo Picasso'?",
+        "choices": [
+            "John Richardson",
+            "Kenneth Clark",
+            "Robert Hughes",
+            "E. H. Gombrich"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso frequently depicted Spanish bullfighting events known as what?",
+        "choices": [
+            "Féria",
+            "Corrida",
+            "Paso doble",
+            "Paseíllo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which French painter was arguably Pablo Picasso’s greatest rival and friend, central to the Paris avant-garde?",
+        "choices": [
+            "Henri Matisse",
+            "Paul Gauguin",
+            "Georges Braque",
+            "Edvard Munch"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso once famously said, 'I do not seek, I find.' Growing up, Pablo Picasso primarily spoke which language?",
+        "choices": [
+            "French",
+            "Italian",
+            "Catalan",
+            "Spanish"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In 1939, the Museum of Modern Art launched a major Pablo Picasso retrospective with the support of which director?",
+        "choices": [
+            "Alfred H. Barr Jr.",
+            "Peggy Guggenheim",
+            "Pablo Neruda",
+            "Daniel-Henry Kahnweiler"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which legendary dealer gave Pablo Picasso one of his first major solo exhibitions in 1901?",
+        "choices": [
+            "Ambroise Vollard",
+            "Paul Durand-Ruel",
+            "Daniel-Henry Kahnweiler",
+            "René Gimpel"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which Catalan art movement, featuring figures like Ramon Casas, preceded Pablo Picasso and influenced his use of color?",
+        "choices": [
+            "Modernisme",
+            "Post-Impressionism",
+            "Fauvism",
+            "Realism"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which chronological order correctly represents Pablo Picasso’s earliest phases?",
+        "choices": [
+            "Blue Period → Rose Period → African-influenced Period → Cubism",
+            "Rose Period → Blue Period → Cubism → African-influenced Period",
+            "African-influenced Period → Rose Period → Blue Period → Cubism",
+            "Cubism → Blue Period → Rose Period → African-influenced Period"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "During the Spanish Civil War, Pablo Picasso was appointed director of which prominent Spanish museum?",
+        "choices": [
+            "Museo del Prado",
+            "Museo Reina Sofía",
+            "Royal Academy of Fine Arts of San Fernando",
+            "Museu Pablo Picasso in Barcelona"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso had a daughter named Maya with which partner?",
+        "choices": [
+            "Olga Khokhlova",
+            "Marie-Thérèse Walter",
+            "Dora Maar",
+            "Jacqueline Roque"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statement about Pablo Picasso is TRUE?",
+        "choices": [
+            "Pablo Picasso died in 1963 at age 81.",
+            "Pablo Picasso's mother was born in France.",
+            "Pablo Picasso joined the French Communist Party in 1944 and remained a member until his death.",
+            "Pablo Picasso never painted a self-portrait."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which Pablo Picasso masterwork was displayed at MoMA in New York before returning to Spain in 1981?",
+        "choices": [
+            "Les Demoiselles d’Avignon",
+            "Guernica",
+            "Three Musicians",
+            "Girl before a Mirror"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso was influenced by African masks, Iberian sculpture, and which Post-Impressionist painter?",
+        "choices": [
+            "Vincent van Gogh",
+            "Henri de Toulouse-Lautrec",
+            "Paul Cézanne",
+            "Georges Seurat"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pablo Picasso spent much of his later life in the south of France, specifically in which Mediterranean region?",
+        "choices": [
+            "Côte d’Azur",
+            "Brittany",
+            "Normandy",
+            "Alsace"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso refused to return to Spain during the dictatorship of which ruler?",
+        "choices": [
+            "Francisco Franco",
+            "Miguel Primo de Rivera",
+            "Adolfo Suárez",
+            "Juan Carlos I"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Aside from painting, Pablo Picasso was also prolific in which medium?",
+        "choices": [
+            "Stained glass",
+            "Mosaic",
+            "Ceramic",
+            "Digital photography"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In 1927, Pablo Picasso began a relationship with which 17-year-old, mother of his daughter Maya?",
+        "choices": [
+            "Olga Khokhlova",
+            "Marie-Thérèse Walter",
+            "Dora Maar",
+            "Jacqueline Roque"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s painting 'La Vie' (1903) is part of which period?",
+        "choices": [
+            "Rose Period",
+            "Blue Period",
+            "Cubism",
+            "Neoclassical"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which museum in Paris is dedicated to Pablo Picasso’s works, located in the Hôtel Salé?",
+        "choices": [
+            "Musée Picasso",
+            "Centre Pompidou",
+            "Musée d’Orsay",
+            "Louvre"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which close friend’s suicide in 1901 contributed to Pablo Picasso’s extended sadness and Blue Period?",
+        "choices": [
+            "Carlos Casagemas",
+            "Max Jacob",
+            "Daniel-Henry Kahnweiler",
+            "Guillaume Apollinaire"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s 'Massacre in Korea' (1951) was directly influenced by which conflict?",
+        "choices": [
+            "Spanish Civil War",
+            "Korean War",
+            "World War II",
+            "Vietnam War"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s 'Dove of Peace' became an iconic emblem of which movement?",
+        "choices": [
+            "Environmentalism",
+            "Pacifism",
+            "Surrealism",
+            "Dadaism"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In Pablo Picasso’s 'Portrait of Gertrude Stein,' which feature did he repaint multiple times, giving it a mask-like look?",
+        "choices": [
+            "Eyes",
+            "Lips",
+            "Nose",
+            "Hairline"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso created a series of 58 reinterpretations in 1957 of which Velázquez masterpiece?",
+        "choices": [
+            "Las Meninas",
+            "The Surrender of Breda",
+            "Portrait of Pope Innocent X",
+            "Venus at Her Mirror"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso once said, 'Good artists copy, great artists ____.'",
+        "choices": [
+            "steal",
+            "innovate",
+            "create",
+            "improve"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso's father, Don José Ruiz Blasco, specialized in painting which subject?",
+        "choices": [
+            "Landscapes",
+            "Still lifes of fruit",
+            "Pigeons",
+            "Sea battles"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which museum in Barcelona houses over 4,000 works by Pablo Picasso, focusing on his formative years?",
+        "choices": [
+            "Museu Picasso",
+            "Museo del Prado",
+            "Louvre",
+            "Museo Thyssen-Bornemisza"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pablo Picasso’s approach to painting faces from multiple simultaneous viewpoints is associated with which movement?",
+        "choices": [
+            "Surrealism",
+            "Cubism",
+            "Impressionism",
+            "Fauvism"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which motif did Pablo Picasso often depict in his later works, symbolizing peace or freedom?",
+        "choices": [
+            "Horses",
+            "Doves",
+            "Guitars",
+            "Windows"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which iconic Pablo Picasso painting did Dora Maar famously photograph step-by-step during its creation?",
+        "choices": [
+            "Les Demoiselles d’Avignon",
+            "Guernica",
+            "The Old Guitarist",
+            "Girl before a Mirror"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s 'Three Musicians' (1921) is typically viewed as an example of which Cubist style?",
+        "choices": [
+            "Analytic Cubism",
+            "Synthetic Cubism",
+            "Orphic Cubism",
+            "Proto-Cubism"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pablo Picasso’s final major muse and companion, whom he married in 1961, was named what?",
+        "choices": [
+            "Dora Maar",
+            "Olga Khokhlova",
+            "Jacqueline Roque",
+            "Françoise Gilot"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pablo Picasso famously lived to what age?",
+        "choices": [
+            "75",
+            "80",
+            "91",
+            "98"
+        ],
+        "answer": 2
+    }
+]

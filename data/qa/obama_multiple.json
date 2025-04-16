@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "In which U.S. state was Barack Obama born?",
+        "choices": [
+            "Hawaii",
+            "Illinois",
+            "California",
+            "New York"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which numbered President of the United States was Barack Obama?",
+        "choices": [
+            "40th",
+            "42nd",
+            "44th",
+            "46th"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In which year did Barack Obama first become President of the United States?",
+        "choices": [
+            "2004",
+            "2008",
+            "2012",
+            "2016"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which political party is Barack Obama affiliated with?",
+        "choices": [
+            "Republican Party",
+            "Democratic Party",
+            "Libertarian Party",
+            "Green Party"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama served as a U.S. Senator for which state before becoming President?",
+        "choices": [
+            "Hawaii",
+            "Illinois",
+            "New York",
+            "Massachusetts"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which Ivy League university did Barack Obama attend for law school?",
+        "choices": [
+            "Yale Law School",
+            "Harvard Law School",
+            "Columbia Law School",
+            "Stanford Law School"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who was Barack Obama’s Vice President during his presidency?",
+        "choices": [
+            "Joe Biden",
+            "Hillary Clinton",
+            "Al Gore",
+            "John Kerry"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was awarded the Nobel Peace Prize in which year?",
+        "choices": [
+            "2009",
+            "2010",
+            "2013",
+            "2015"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Before entering politics, Barack Obama worked as a community organizer in which city?",
+        "choices": [
+            "Honolulu",
+            "Chicago",
+            "Los Angeles",
+            "Detroit"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the title of Barack Obama’s first memoir, published in 1995?",
+        "choices": [
+            "The Audacity of Hope",
+            "Dreams from My Father",
+            "Becoming",
+            "A Promised Land"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s mother, Ann Dunham, was originally from which U.S. state?",
+        "choices": [
+            "Texas",
+            "Kansas",
+            "Ohio",
+            "Vermont"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which significant healthcare legislation is associated with Barack Obama’s presidency?",
+        "choices": [
+            "Medicare Modernization Act",
+            "Affordable Care Act (Obamacare)",
+            "Children’s Health Insurance Program",
+            "Social Security Act"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama was the first African American President of the United States. Which statement is correct?",
+        "choices": [
+            "He was the second African American President",
+            "He was indeed the first African American President",
+            "He never mentioned his heritage",
+            "He only served one year in office"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country did Barack Obama visit in 2016, marking the first visit by a sitting U.S. President there in 88 years?",
+        "choices": [
+            "Cuba",
+            "Iran",
+            "Vietnam",
+            "North Korea"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama was a professor of constitutional law at which university?",
+        "choices": [
+            "Northwestern University",
+            "University of California, Berkeley",
+            "University of Chicago",
+            "University of Michigan"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which major operation took place during Barack Obama’s presidency, resulting in Osama bin Laden’s death?",
+        "choices": [
+            "Operation Enduring Freedom",
+            "Operation Iraqi Freedom",
+            "Operation Neptune Spear",
+            "Operation Red Dawn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama’s father was originally from which African country?",
+        "choices": [
+            "Ghana",
+            "Kenya",
+            "Nigeria",
+            "Tanzania"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama is married to which former First Lady?",
+        "choices": [
+            "Laura Bush",
+            "Michelle Obama",
+            "Hillary Clinton",
+            "Melania Trump"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In his early political career, Barack Obama was first elected to which office?",
+        "choices": [
+            "U.S. Senate",
+            "Illinois State Senate",
+            "Mayor of Chicago",
+            "Illinois Governor"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Where did Barack Obama spend part of his early childhood outside the United States?",
+        "choices": [
+            "Canada",
+            "United Kingdom",
+            "Indonesia",
+            "Mexico"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama earned his undergraduate degree at which university?",
+        "choices": [
+            "Princeton University",
+            "Columbia University",
+            "Dartmouth College",
+            "University of Pennsylvania"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How many terms did Barack Obama serve as President of the United States?",
+        "choices": [
+            "One term",
+            "Two terms",
+            "Three terms",
+            "Four terms"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama gave a keynote address at the 2004 Democratic National Convention in which city?",
+        "choices": [
+            "Boston",
+            "Chicago",
+            "Philadelphia",
+            "Charlotte"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "During Barack Obama’s presidency, diplomatic relations were restored with which country in 2015 after decades of tension?",
+        "choices": [
+            "Iran",
+            "Cuba",
+            "Venezuela",
+            "Syria"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "From 1997 to 2004, Barack Obama served in which position within the Illinois government?",
+        "choices": [
+            "Attorney General",
+            "Governor",
+            "State Senator",
+            "State Representative"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which 2006 book by Barack Obama outlines his political vision?",
+        "choices": [
+            "Dreams from My Father",
+            "Becoming",
+            "The Audacity of Hope",
+            "Change We Can Believe In"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In which year did Barack Obama graduate from Harvard Law School?",
+        "choices": [
+            "1985",
+            "1991",
+            "1999",
+            "2003"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which publication did Barack Obama serve as president of while attending Harvard Law School?",
+        "choices": [
+            "Harvard Law Review",
+            "Harvard Crimson",
+            "Harvard Gazette",
+            "Harvard Lampoon"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which major international accolade did Barack Obama receive for his diplomatic efforts?",
+        "choices": [
+            "Pulitzer Prize",
+            "Nobel Peace Prize",
+            "Tony Award",
+            "Presidential Medal of Freedom"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which 2008 campaign speech by Barack Obama famously addressed U.S. racial tensions?",
+        "choices": [
+            "Yes We Can",
+            "A More Perfect Union",
+            "We Shall Overcome",
+            "The Great Society"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s paternal grandmother was known by which name?",
+        "choices": [
+            "Sarah Obama",
+            "Ruth Obama",
+            "Mary Obama",
+            "Joan Obama"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s father came from the Kenyan village of?",
+        "choices": [
+            "Kisumu",
+            "Nairobi",
+            "Kogelo",
+            "Mombasa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama served in the U.S. Senate from 2005 until which year?",
+        "choices": [
+            "2006",
+            "2008",
+            "2010",
+            "2012"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama defeated which Republican nominee in the 2008 presidential election?",
+        "choices": [
+            "John McCain",
+            "Mitt Romney",
+            "George W. Bush",
+            "Ron Paul"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama defeated which Republican nominee in the 2012 presidential election?",
+        "choices": [
+            "John McCain",
+            "Donald Trump",
+            "Mitt Romney",
+            "Sarah Palin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Under Barack Obama, the operation that led to Osama bin Laden's death was codenamed?",
+        "choices": [
+            "Operation Enduring Freedom",
+            "Operation Iraqi Freedom",
+            "Operation Neptune Spear",
+            "Operation Red Dawn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which memorable slogan was part of Barack Obama’s 2008 presidential campaign?",
+        "choices": [
+            "Yes We Can",
+            "I Like Ike",
+            "Hope Wins",
+            "Make America Great Again"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which act, signed by Barack Obama, aimed to reform Wall Street and protect consumers?",
+        "choices": [
+            "Dodd-Frank Act",
+            "Patriot Act",
+            "Sarbanes-Oxley Act",
+            "Glass-Steagall Act"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama officially began his second term in which year?",
+        "choices": [
+            "2009",
+            "2011",
+            "2013",
+            "2015"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama’s mother, Ann Dunham, conducted much of her anthropological research in which country?",
+        "choices": [
+            "Indonesia",
+            "Kenya",
+            "Brazil",
+            "Russia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which Supreme Court Justice was appointed by Barack Obama in 2009?",
+        "choices": [
+            "Elena Kagan",
+            "Sonia Sotomayor",
+            "Ruth Bader Ginsburg",
+            "Sandra Day O’Connor"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which Supreme Court Justice was appointed by Barack Obama in 2010?",
+        "choices": [
+            "Merrick Garland",
+            "Sonia Sotomayor",
+            "Elena Kagan",
+            "Neil Gorsuch"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama’s wife, Michelle Obama, launched which initiative to tackle childhood obesity?",
+        "choices": [
+            "Reading is Fundamental",
+            "Let Girls Learn",
+            "Joining Forces",
+            "Let's Move!"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which breed of dog did Barack Obama adopt during his presidency?",
+        "choices": [
+            "Labrador Retriever",
+            "Beagle",
+            "Portuguese Water Dog",
+            "Golden Retriever"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which legislation signed by Barack Obama in 2010 ended the U.S. military’s 'Don’t Ask, Don’t Tell' policy?",
+        "choices": [
+            "Matthew Shepard Act",
+            "Lilly Ledbetter Fair Pay Act",
+            "Don’t Ask, Don’t Tell Repeal Act",
+            "Equality Act"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama’s Vice President, Joe Biden, had previously served as a U.S. Senator for which state?",
+        "choices": [
+            "Delaware",
+            "Pennsylvania",
+            "Ohio",
+            "Rhode Island"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The foreign policy under Barack Obama focusing on greater engagement in Asia was nicknamed what?",
+        "choices": [
+            "New Deal for Asia",
+            "Pivot to Asia",
+            "Open Door Policy",
+            "Asia Surge"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which major automakers did Barack Obama’s administration help bail out in 2009?",
+        "choices": [
+            "Toyota and Ford",
+            "GM and Chrysler",
+            "Tesla and Nissan",
+            "Fiat and Honda"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama introduced which executive action in 2012 to protect certain undocumented youth from deportation?",
+        "choices": [
+            "DACA (Deferred Action for Childhood Arrivals)",
+            "PATRIOT Act",
+            "REAL ID Act",
+            "DREAM Act"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s father studied at which U.S. university on a scholarship?",
+        "choices": [
+            "University of Hawaii",
+            "Stanford University",
+            "Harvard University",
+            "University of Chicago"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s parents first met at which institution?",
+        "choices": [
+            "University of Michigan",
+            "University of Hawaii",
+            "Columbia University",
+            "Harvard University"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of Barack Obama’s older daughter?",
+        "choices": [
+            "Malia",
+            "Sasha",
+            "Ashley",
+            "Naomi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the name of Barack Obama’s younger daughter?",
+        "choices": [
+            "Malia",
+            "Sasha",
+            "Ashley",
+            "Naomi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which individual served as White House Press Secretary under Barack Obama from 2009 to 2011?",
+        "choices": [
+            "Sean Spicer",
+            "Jay Carney",
+            "Josh Earnest",
+            "Robert Gibbs"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which individual succeeded Robert Gibbs as White House Press Secretary under Barack Obama?",
+        "choices": [
+            "Sean Spicer",
+            "Jay Carney",
+            "Dana Perino",
+            "Josh Earnest"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which legislation was the first official bill signed by Barack Obama, addressing pay discrimination?",
+        "choices": [
+            "Lilly Ledbetter Fair Pay Act",
+            "Equal Pay Act",
+            "Paycheck Fairness Act",
+            "FMLA Expansion Act"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama is known to be a fan of which professional sports team from Chicago?",
+        "choices": [
+            "Chicago Cubs",
+            "Chicago White Sox",
+            "Chicago Bulls",
+            "Chicago Bears"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s 2012 campaign used which single-word slogan?",
+        "choices": [
+            "Change",
+            "Hope",
+            "Forward",
+            "Yes!"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which G20 summit was the first attended by Barack Obama as President?",
+        "choices": [
+            "2009 G20 in London",
+            "2010 G20 in Toronto",
+            "2009 G20 in Pittsburgh",
+            "2011 G20 in Cannes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "During Barack Obama’s presidency, the U.S. endured a major economic downturn often called what?",
+        "choices": [
+            "The Dot-Com Bubble",
+            "The Great Depression",
+            "The Great Recession",
+            "The Oil Crisis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama’s maternal grandparents largely raised him in which U.S. state?",
+        "choices": [
+            "Illinois",
+            "Kansas",
+            "Hawaii",
+            "Oregon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which politician served as Secretary of State under Barack Obama from 2009 to 2013?",
+        "choices": [
+            "John Kerry",
+            "Hillary Clinton",
+            "Condoleezza Rice",
+            "Tim Kaine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which politician served as Secretary of State under Barack Obama from 2013 to 2017?",
+        "choices": [
+            "Joe Biden",
+            "John Kerry",
+            "Chuck Hagel",
+            "Tim Kaine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s 2009 stimulus package was formally called what?",
+        "choices": [
+            "Economic Revitalization Act",
+            "American Recovery and Reinvestment Act",
+            "Emergency Economic Stabilization Act",
+            "Paycheck Protection Program"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama proposed ending which NASA program to shift focus to new manned missions?",
+        "choices": [
+            "Artemis program",
+            "Constellation program",
+            "Apollo program",
+            "Space Shuttle program"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama succeeded which U.S. President in January 2009?",
+        "choices": [
+            "Bill Clinton",
+            "George H.W. Bush",
+            "George W. Bush",
+            "Ronald Reagan"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which major technological 'first' occurred at Barack Obama’s 2009 inauguration ceremony?",
+        "choices": [
+            "First to appear on radio",
+            "First to be broadcast in high definition",
+            "First to be covered by newspapers",
+            "First to be broadcast in color"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s administration signed an international nuclear agreement in 2015 with which country?",
+        "choices": [
+            "North Korea",
+            "Iraq",
+            "Iran",
+            "Syria"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama was the first sitting President to appear on which late-night talk show in 2009?",
+        "choices": [
+            "The Tonight Show with Jay Leno",
+            "Late Show with David Letterman",
+            "The Daily Show with Jon Stewart",
+            "Late Night with Conan O’Brien"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama’s official presidential portrait was created by which artist?",
+        "choices": [
+            "Norman Rockwell",
+            "Andy Warhol",
+            "Kehinde Wiley",
+            "Jean-Michel Basquiat"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama’s half-sister on his mother’s side is named what?",
+        "choices": [
+            "Auma Obama",
+            "Sasha Obama",
+            "Maya Soetoro-Ng",
+            "Zeituni Onyango"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Under which act did Barack Obama allocate billions to renewable energy programs in 2009?",
+        "choices": [
+            "American Recovery and Reinvestment Act",
+            "No Child Left Behind Act",
+            "Affordable Care Act",
+            "CARES Act"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which individual did Barack Obama nominate in 2016 to fill a Supreme Court vacancy?",
+        "choices": [
+            "Sonia Sotomayor",
+            "Elena Kagan",
+            "Merrick Garland",
+            "Brett Kavanaugh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama delivered his farewell address in January 2017 in which city?",
+        "choices": [
+            "Washington, D.C.",
+            "Chicago",
+            "New York",
+            "Honolulu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama oversaw the withdrawal of most U.S. troops from which country by the end of 2011?",
+        "choices": [
+            "Afghanistan",
+            "Syria",
+            "Iraq",
+            "Libya"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In 2016, Barack Obama expanded which Hawaiian marine monument into the world’s largest protected area?",
+        "choices": [
+            "Papahānaumokuākea Marine National Monument",
+            "Monument Valley",
+            "Haleakalā National Park",
+            "Midway National Sanctuary"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In which year did Barack Obama officially state his support for same-sex marriage while in office?",
+        "choices": [
+            "2009",
+            "2010",
+            "2012",
+            "2015"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama was sworn in on January 20, 2009, by which Chief Justice?",
+        "choices": [
+            "John Roberts",
+            "Antonin Scalia",
+            "Anthony Kennedy",
+            "William Rehnquist"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is Barack Obama’s middle name?",
+        "choices": [
+            "Hussein",
+            "Malik",
+            "Jackson",
+            "David"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which sport is Barack Obama famously known for regularly playing?",
+        "choices": [
+            "Tennis",
+            "Golf",
+            "Basketball",
+            "Soccer"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama delivered a speech in 2015 at the Edmund Pettus Bridge commemorating which historic event?",
+        "choices": [
+            "March on Washington",
+            "Selma to Montgomery marches",
+            "Montgomery Bus Boycott",
+            "Freedom Rides"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama ordered a surge of U.S. forces in which country in 2009?",
+        "choices": [
+            "Iraq",
+            "Afghanistan",
+            "Pakistan",
+            "Somalia"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama appointed the first Latina to the Supreme Court. Who is she?",
+        "choices": [
+            "Sonia Sotomayor",
+            "Elena Kagan",
+            "Hilda Solis",
+            "Kamala Harris"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "After leaving the White House in 2017, Barack Obama’s first post-presidential residence was in which city?",
+        "choices": [
+            "Chicago, Illinois",
+            "New York, New York",
+            "Washington, D.C.",
+            "Los Angeles, California"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama became the first sitting President to appear on 'Between Two Ferns' with which comedian?",
+        "choices": [
+            "Jimmy Kimmel",
+            "Seth Meyers",
+            "Zach Galifianakis",
+            "Stephen Colbert"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What was Barack Obama’s Secret Service codename?",
+        "choices": [
+            "Renegade",
+            "Eagle",
+            "Patriot",
+            "Alpha"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Barack Obama eulogized which South African leader in 2013?",
+        "choices": [
+            "Winnie Mandela",
+            "Desmond Tutu",
+            "Nelson Mandela",
+            "Thabo Mbeki"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In 2017, Barack Obama awarded Joe Biden which honor with Distinction?",
+        "choices": [
+            "Nobel Peace Prize",
+            "Presidential Citizens Medal",
+            "Presidential Medal of Freedom",
+            "National Humanities Medal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama’s mother, Ann Dunham, conducted much of her anthropological fieldwork in which nation?",
+        "choices": [
+            "Kenya",
+            "Indonesia",
+            "India",
+            "Mexico"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama was instrumental in the 2015 Paris Agreement on what global issue?",
+        "choices": [
+            "Nuclear disarmament",
+            "International trade",
+            "Climate change",
+            "Cybersecurity"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama visited Hiroshima in 2016, becoming the first sitting U.S. President to do what?",
+        "choices": [
+            "Visit Hiroshima",
+            "Visit Nagasaki",
+            "Officially apologize for WWII bombings",
+            "Attend a G7 summit in Tokyo"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Under Barack Obama, same-sex marriage became legal nationwide after which Supreme Court ruling in 2015?",
+        "choices": [
+            "Roe v. Wade",
+            "Brown v. Board",
+            "Obergefell v. Hodges",
+            "Citizens United v. FEC"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama visited his paternal homeland in 2015, traveling to which African country?",
+        "choices": [
+            "South Africa",
+            "Egypt",
+            "Kenya",
+            "Nigeria"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In 2018, Barack Obama delivered a speech at the University of Illinois, breaking which tradition for former Presidents?",
+        "choices": [
+            "The tradition of bipartisan unity among ex-Presidents",
+            "The tradition of not publicly criticizing a sitting President",
+            "The tradition of annual graduation addresses",
+            "The tradition of awarding honorary doctorates"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "As a teenager, Barack Obama was sometimes known by which nickname?",
+        "choices": [
+            "Baz",
+            "Bar",
+            "Barry",
+            "Bobby"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama’s father died in which year?",
+        "choices": [
+            "1979",
+            "1982",
+            "1985",
+            "1990"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama’s post-presidential memoir published in 2020 is titled what?",
+        "choices": [
+            "Becoming",
+            "A Promised Land",
+            "The Courage to Hope",
+            "Dreams for My Children"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barack Obama publicly endorsed same-sex marriage in a 2012 interview with which journalist?",
+        "choices": [
+            "Anderson Cooper",
+            "Oprah Winfrey",
+            "Robin Roberts",
+            "George Stephanopoulos"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Barack Obama gave his 2008 victory speech at Grant Park, located in which city?",
+        "choices": [
+            "Chicago",
+            "Washington, D.C.",
+            "Boston",
+            "New York"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "At the 2009 inauguration, Barack Obama placed his hand on which former President’s Bible?",
+        "choices": [
+            "Abraham Lincoln’s Bible",
+            "George Washington’s Bible",
+            "His personal family Bible",
+            "Thomas Jefferson’s Bible"
+        ],
+        "answer": 0
+    }
+]

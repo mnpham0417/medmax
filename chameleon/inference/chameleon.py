@@ -384,6 +384,10 @@ class Generator(Decoder):
             enable_full_determinism(options.seed, warn_only=True)
 
         self.model = model
+        
+        # TODO: custom fix for rtx8000
+        # load model to torch.float32
+        self.model.to(dtype=torch.float32)
         self.vocab = vocab
         self.input_ids = input_ids[:]
         self.generated_token_ids: list[torch.LongTensor] = []
