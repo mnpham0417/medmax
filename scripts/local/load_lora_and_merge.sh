@@ -1,3 +1,3 @@
-CUDA_VISIBLE_DEVICES=0 python -m src.load_lora_and_merge --ckpt_path /scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/checkpoints/dog_lora_image_only_with_boi_eoi/checkpoint-5000 \
-            --output_dir /scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/checkpoints/dog_lora_merged_image_only_with_boi_eoi \
-            --base_path /scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/checkpoints/anole_7b_hf
+CUDA_VISIBLE_DEVICES=0 python -m src.load_lora_and_merge --ckpt_path /scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/checkpoints/maze_pathfinding_2000/checkpoint-40000 \
+            --output_dir ./checkpoints/maze_pathfinding_2000_hf \
+            --base_path ./checkpoints/anole_7b_hf

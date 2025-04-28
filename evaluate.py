@@ -83,7 +83,7 @@ def get_token_logits(model, prompt):
         
         # Extract logits for these specific tokens
         letter_logits = torch.tensor([token.logits[0][id].item() for id in letter_ids])
-        
+        print(letter_logits)
         return letter_logits
         
     except Exception as e:
@@ -222,7 +222,7 @@ def parse_arguments():
     parser.add_argument(
         "--dataset_path", 
         type=str, 
-        default="src/anole/evaluation/data/van_gogh.json",
+        default="/scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/data/qa/van_gogh_multiple.json",
         help="Path to the dataset JSON file."
     )
     parser.add_argument(

@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv(override=True)
 
-ckpt_path = Path(os.getenv("CKPT_PATH", "./checkpoints/Anole-7b-v0.1"))
+ckpt_path = Path(os.getenv("CKPT_PATH", "./checkpoints/maze_direct_2000-iter-20000_hf_pth"))
 MODEL_7B_PATH = ckpt_path / "models" / "7b"
 
 MODEL_30B_PATH = ckpt_path / "models" / "30b"

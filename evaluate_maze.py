@@ -20,10 +20,10 @@ def load_dataset(dataset_path):
         with open(direction_file, 'r') as f:
             direction = json.load(f)
         result.append({
-            "question": "Task: Maze Navigation Simulation Determine the final destination (A, B, C or D) from the starting point (red point) following the action sequence. The definitions of the actions are as below. * Go up/left/down/right: move one grid space in the absolute up/left/down/right direction. Full Action Sequence: Go down. Go left. Go left. Go up. Go up. Initial maze:",
+            "question": f"Task: Maze Navigation Simulation Determine the final destination (A, B, C or D) from the starting point (red point) following the action sequence. The definitions of the actions are as below. * Go up/left/down/right: move one grid space in the absolute up/left/down/right direction. Full Action Sequence: {direction.get('direction')}. Initial maze: ",
             "image_path": os.path.join(dataset_path, maze_folder, "maze_0.png"),
             "choices": ["A", "B", "C", "D"],
-            "answer": ["A", "B", "C", "D"].index(direction["final_destimation_point"])
+            "answer": ["A", "B", "C", "D"].index(direction["final_destimation_point"]),
         })
     return result
 
@@ -60,9 +60,10 @@ def get_token_logits(model, prompt, image_path):
     """
     batch_prompt_ui = [
         [
-            {"type": "text", "value": "Task: Maze Navigation Simulation Determine the final destination (A, B, C or D) from the starting point (red point) following the action sequence. The definitions of the actions are as below. * Go up/left/down/right: move one grid space in the absolute up/left/down/right direction. Full Action Sequence: Go down. Go left. Go left. Go up. Go up. Initial maze:"},
+            {"type": "text", "value": prompt},
             {"type": "image", "value": f"file:{image_path}"},
-            {"type": "text", "value": "The answer is "}
+            {"type": "text", "value": "The answer is "},
+            {"type": "sentinel", "value": "<END-OF-TURN>"}
             ],
     ]
     
@@ -87,6 +88,7 @@ def get_token_logits(model, prompt, image_path):
         
         # Extract logits for these specific tokens
         letter_logits = torch.tensor([token.logits[0][id].item() for id in letter_ids])
+        print(letter_logits)
         
         return letter_logits
         
@@ -146,11 +148,10 @@ def evaluate_model(model, dataset):
         choices = item["choices"]
         correct_index = item["answer"]
         image_path = item["image_path"]
-        
         # prompt = format_prompt(question, choices)
         prompt = question
-        # assert False
         answer_letter = get_model_answer(model, prompt, image_path)
+        print(f"Question: {prompt}\nImage: {image_path}\nModel answer: {answer_letter}")
         
         result = {
             "question": question,
@@ -230,7 +231,7 @@ def parse_arguments():
     parser.add_argument(
         "--dataset_path", 
         type=str, 
-        default="/scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/data/maze_dataset/test",
+        default="/scratch/mp5847/workspace/mixed-modal-erasure/src/medmax/data/maze_dataset/train",
         help="Path to the dataset JSON file."
     )
     parser.add_argument(

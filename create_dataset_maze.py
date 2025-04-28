@@ -1,4 +1,3 @@
-
 from src.image_tokenization import VQVAEImageProcessor, ImageDataset
 import argparse 
 import torch.utils
@@ -22,7 +21,7 @@ import argparse
 from tqdm import tqdm
 from tokenizers import Tokenizer
 from src.tokenization import offset_image_tokens
-
+import random
 import json 
 
 # import json
@@ -52,6 +51,9 @@ class MazeDataset(torch.utils.data.dataset.Dataset):
 
         self.path = path
         self.maze_dirs = os.listdir(path)
+        
+        #shuffle the maze_dirs
+        random.shuffle(self.maze_dirs)
         # start_maze_paths = glob.glob(image_paths+ "/*/step_00.png")
         # all_maze_paths = glob.glob(image_paths + )
         # solution_text = glob.glob
@@ -60,12 +62,11 @@ class MazeDataset(torch.utils.data.dataset.Dataset):
         
     def __getitem__(self, index):
         # item = self.data[index]
-        image_path = self.path+ '/'+self.maze_dirs[index] + "/step_00.png"
-        text_path = self.path+ '/'+self.maze_dirs[index] + "/output.txt"
+        image_path = self.path+ '/'+self.maze_dirs[index] + "/maze_0.png"
+        text_path = self.path+ '/'+self.maze_dirs[index] + "/direction.json"
 
         with open(text_path, 'r') as file:
-            content = file.read()
-            # print(content)
+            content = json.load(file)
 
         try:
             image = Image.open(image_path).convert('RGB')
@@ -79,11 +80,13 @@ class MazeDataset(torch.utils.data.dataset.Dataset):
             image_path=image_path,
             image=image,
             text_path=text_path, 
-            text=content,
+            text=content["final_destimation_point"],
+            ground_truth_path=content["direction"]
         )
         
     def __len__(self):
         return len(self.maze_dirs)
+        # return 1000
 
 
 
@@ -92,9 +95,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--input', type=str,default='', help='input csv with image column')
     parser.add_argument('--output', type=str, default='', help='output folder where the vqgan image tokens should be stored')
-    # # parser.add_argument('--partition_size', type=int, default=5_000, help='partition size of the dataset')
     parser.add_argument('--bs', type=int, default=64, help='batch size')
-    # parser.add_argument('--n_limit', type=int, default=-1)
     parser.add_argument('--ckpt',type=str,default='', help='path to medmax folder')
     parser.add_argument('--tokenizer_file',type=str,default='', help='path to medmax folder')
     
@@ -105,12 +106,7 @@ if __name__ == '__main__':
     
     # dist.init_process_group()
     dataset = MazeDataset(args.input)
-    # sampler = DistributedSampler(dataset, shuffle=False)
     dataloader = DataLoader(dataset,  batch_size=args.bs) #sampler=sampler,
-    # local_rank = os.environ['LOCAL_RANK']
-    # local_rank = int(local_rank)
-    # print(f"RANK: {local_rank}, init")
-    # torch.cuda.set_device(local_rank)
     output_path = Path(args.output)
 
     vqgan_cfg_path = (ckpt_path / "tokenizer" / "vqgan.ckpt").as_posix()
@@ -134,10 +130,6 @@ if __name__ == '__main__':
     
 
     for batch in tqdm(dataloader):
-        # out = output_path/f'partition_{partition_count}_rank_{local_rank}.parquet'
-        # if os.path.exists(out):
-        #     partition_count += 1
-        #     continue
         bsz = len(batch['image'])
         with torch.no_grad():
             image_token_from_tensor = token_manager.image_tokenizer.image_token_from_tensor(batch['image'].cuda())
@@ -152,8 +144,10 @@ if __name__ == '__main__':
             image_tokens = offset_image_tokens(image_token_from_tensor[b].cpu().numpy().tolist())
             image_tokens = [8197] + image_tokens + [8196]
             
-            text = "Solve this maze <image><reserved08706>" + batch["text"][b]
-            # print(text)
+            # text = f"Task: Maze Navigation Simulation Determine the final destination (A, B, C or D) from the starting point (red point) following the action sequence. The definitions of the actions are as below. * Go up/left/down/right: move one grid space in the absolute up/left/down/right direction. Full Action Sequence: {batch['ground_truth_path'][b]}. Initial maze: <image> Response: <reserved08706> The answer is " + batch["text"][b]
+            text = f"Task: Maze Navigation Simulation\nDetermine the shortest path that leads to the final destination (A, B, C or D) from the starting point (red point) following the action sequence. The definitions of the actions are as below.\n* Go up/left/down/right: move one grid space in the absolute up/left/down/right direction.\nInitial maze: <image> Final destination: {batch['text'][b]}.\nResponse: <reserved08706> The answer is {batch['ground_truth_path'][b]}"
+            print(text)
+            # assert False
             entry["text"] = text
             text_tokenized = [tokenizer.bos] + tokenizer.encode(text).ids + [tokenizer.eos]
 
@@ -164,14 +158,13 @@ if __name__ == '__main__':
                 else:
                     new_tokens = new_tokens + [token]
 
-            # print(type(new_tokens[0]))
             entry['tokens'] = new_tokens
 
             # print(entry)
             output_list.append(entry)
             
     
-    write_list_of_dicts_to_jsonl(output_list, args.output + "/metadata_sft.jsonl")     
+    write_list_of_dicts_to_jsonl(output_list, args.output + "/train_metadata_pathfinding_all.jsonl")     
 
 
 
